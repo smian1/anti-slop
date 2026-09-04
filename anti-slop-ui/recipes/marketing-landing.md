@@ -11,7 +11,7 @@ Sell with the product's real story. Do not paste the AI SaaS template.
 
 ## Cuts that matter most here
 
-Purple/indigo/cyan–pink hero wash; mesh orbs; gradient text; Inter monoculture; three identical feature cards; eyebrow spam; emoji icons; fake logo bar; hero→3 features→FAQ→purple CTA as autopilot; cream+terracotta kit as "premium" default; bounce/pulse loops.
+Purple/indigo/cyan–pink hero wash; mesh orbs; gradient text; Inter/Space Grotesk monoculture; three identical feature cards; hero-metric template; single-word headline accent; eyebrow spam; emoji / "AI Powered" capsules; Undraw/blob art; fake logo bar; hero→3 features→FAQ→purple CTA as autopilot; cream+terracotta or acid-dark kits as defaults; em-dash / middle-dot copy chrome; bounce/pulse loops.
 
 ## Keep / prefer
 
@@ -26,7 +26,7 @@ Purple/indigo/cyan–pink hero wash; mesh orbs; gradient text; Inter monoculture
 - Invent social proof, metrics, or Jane Doe quotes
 - Replace purple slop with beige-serif slop
 - Force bento/pricing-three-up when the offer is not that shape
-- Always-on sparkle badges ("AI Powered")
+- Always-on sparkle badges ("AI Powered") or stock illustration packs with no product link
 
 ## Detect shape
 

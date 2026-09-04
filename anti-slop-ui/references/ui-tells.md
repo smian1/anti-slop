@@ -14,45 +14,51 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 | 4 | **Glass / backdrop-blur everywhere** | Flattened hierarchy; frosted wallpaper | ≤1–2 glass surfaces as accent |
 | 5 | **Glow / neon / soft multi-shadow soup** | Attention amplifier with no focus | Shadow for elevation only; glow on one focus element max |
 | 6 | **Cream + serif + terracotta / beige–brass kit** unearned | 2026 AI cluster (Claude-beige adjacent) | Brand override only; else pick tokens for this product |
-| 7 | **Too many accents** — accent on buttons, icons, badges, links, glows at once | Accent stops being accent | One accent job; neutrals carry area; status colors only on status |
+| 7 | **Near-black + acid-green / vermilion accent kit** unearned | 2026 AI cluster twin of cream kit | Brand/product category override only; else derive accent from subject |
+| 8 | **Too many accents** — accent on buttons, icons, badges, links, glows at once | Accent stops being accent | One accent job; neutrals carry area; status colors only on status |
 
 ## Type
 
 | # | Tell | Why | Fix |
 |---|------|-----|-----|
-| 8 | **Inter / Roboto / Open Sans** (or unstated system stack) as display *and* body with no reason | Font monoculture | DESIGN.md / project fonts; do not default to Geist either |
-| 9 | **Tracked ALL-CAPS eyebrows** above every heading | Template chrome | Cut or keep once when the label is real taxonomy |
-| 10 | **Monospace-as-aesthetic** headings or fake terminal hero | "Developer costume" without a CLI product | Real screenshot or brand type |
+| 9 | **Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif** (or unstated system stack) as unearned identity | Font monoculture / default roster | DESIGN.md / project fonts; do not crown a replacement default |
+| 10 | **Tracked ALL-CAPS eyebrows** above every heading | Template chrome | Cut or keep once when the label is real taxonomy |
+| 11 | **Single-word headline accent** — one word italic, bold, or color-dipped; two-tone H1 | Trying-to-look-editorial costume | Solid roman headline; emphasis via weight/size of the whole line |
+| 12 | **Monospace-as-aesthetic** headings or fake terminal hero | "Developer costume" without a CLI product | Real screenshot or brand type |
 
 ## Layout & components
 
 | # | Tell | Why | Fix |
 |---|------|-----|-----|
-| 11 | **Hero → logos → 3 features → how-it-works(3) → testimonials → FAQ → purple CTA** | Narrative from template, not product | Section order from content; drop empty sections |
-| 12 | **Three identical icon+title+blurb cards** | Equal weight for unequal content | Vary size/treatment; flagship may be full-width |
-| 13 | **Nested cards / card-everything** | Soft rectangles as personality | Flat sections; cards only for discrete objects |
-| 14 | **Side-tab / thick colored edge stripe** with no state meaning | Cheap "designed" cue | Stripe only for real state (active, warning, selected) |
-| 15 | **01 / 02 / 03 section theater** | Numbers when content is not a sequence | Number only real steps/timelines |
-| 16 | **Uniform pill radius on every control** | Hierarchy erased | Radius scale; CTA may be rounder than inputs |
-| 17 | **Same radius on parent and padded child** | Concentric fail; visually muddy | Inner radius = outer − padding (approx) |
-| 18 | **Default dashboard shell** — sidebar + 4 stat cards + chart + table before the job is named | App-side template mean | Name the user decision; build hierarchy around it |
+| 13 | **Hero → logos → 3 features → how-it-works(3) → testimonials → FAQ → purple CTA** | Narrative from template, not product | Section order from content; drop empty sections |
+| 14 | **Hero-metric template** — huge number, tiny label, supporting stats as the hero | Layout picked from memory, not the product | Lead with product/artifact/verified claim; keep metrics only when real and primary |
+| 15 | **Three identical icon+title+blurb cards** (often icon-tile on top) | Equal weight for unequal content | Vary size/treatment; flagship may be full-width; drop decorative icon tiles |
+| 16 | **Nested cards / card-everything** | Soft rectangles as personality | Flat sections; cards only for discrete objects |
+| 17 | **Side-tab / thick colored edge stripe** with no state meaning | Cheap "designed" cue | Stripe only for real state (active, warning, selected) |
+| 18 | **01 / 02 / 03 section theater** | Numbers when content is not a sequence | Number only real steps/timelines |
+| 19 | **Uniform pill radius on every control** | Hierarchy erased | Radius scale; CTA may be rounder than inputs |
+| 20 | **Same radius on parent and padded child** | Concentric fail; visually muddy | Inner radius = outer − padding (approx) |
+| 21 | **Default dashboard shell** — sidebar + 4 stat cards + chart + table before the job is named | App-side template mean | Name the user decision; build hierarchy around it |
 
 ## Decoration & content honesty
 
 | # | Tell | Why | Fix |
 |---|------|-----|-----|
-| 19 | **Emoji / sparkle / ✨ / 🚀 as icons or CTA flair** | Loudest "generated" shorthand | Real SVG/set icons or none |
-| 20 | **Fake metrics / Jane Doe activity / invented logos** | Fabricated trust | Real data, labelled placeholder, or honest empty |
-| 21 | **Div-built fake product chrome** (traffic-light windows, pretend UI) | Costume screenshot | Real capture or abstract diagram labelled as such |
-| 22 | **Arrow on every button** (`→` / `↗`) | Direction cue becomes noise | Arrow only when navigation direction matters |
+| 22 | **Emoji / sparkle / ✨ / 🚀 as icons or CTA flair** | Loudest "generated" shorthand | Real SVG/set icons or none |
+| 23 | **"AI Powered" / glow capsule badges** (pill + glow + dot + uppercase) | Self-referential AI costume | Real status only (Beta/New when true); never decorative "AI Powered" |
+| 24 | **Generic stock illustrations** — Undraw / Storyset / blob characters with no product link | Decorated, not designed | Real screenshot, domain diagram, or none |
+| 25 | **Fake metrics / Jane Doe activity / invented logos** | Fabricated trust | Real data, labelled placeholder, or honest empty |
+| 26 | **Div-built fake product chrome** (traffic-light windows, pretend UI) | Costume screenshot | Real capture or abstract diagram labelled as such |
+| 27 | **Arrow on every button** (`→` / `↗`) | Direction cue becomes noise | Arrow only when navigation direction matters |
+| 28 | **UI copy chrome** — em dashes in short UI strings; middle-dot meta (`A · B · C`); `WORD — fragment` labels | Anthropic template chrome; bleeds from prose slop | Sentence case; cut theater punctuation; for long landing prose see sibling `anti-slop` |
 
 ## Motion
 
 | # | Tell | Why | Fix |
 |---|------|-----|-----|
-| 23 | **Bounce / elastic easing** as default | Toy motion on serious UI | Standard ease; spring only if brand asks |
-| 24 | **Infinite pulse / float loops** without user trigger | Perpetual noise | One authored moment; stop; honor `prefers-reduced-motion` |
-| 25 | **Fade-up on every section + hover on every card** | Scattered motion, no focal point | Choreograph one entrance or none |
+| 29 | **Bounce / elastic easing** as default | Toy motion on serious UI | Standard ease; spring only if brand asks |
+| 30 | **Infinite pulse / float loops** without user trigger | Perpetual noise | One authored moment; stop; honor `prefers-reduced-motion` |
+| 31 | **Fade-up on every section + hover on every card** | Scattered motion, no focal point | Choreograph one entrance or none |
 
 ## Positive defaults (short)
 

@@ -11,7 +11,8 @@ Prefer leaving a tell over flattening real brand or intentional craft. Detect ca
 | Glass / blur | Product *is* glass-forward (visionOS-style, intentional frosted panels) and dose is controlled |
 | Soft shadows | Elevation system from tokens; not random per-card glow |
 | Rounded pills | Brand explicitly pill-shaped (consumer, playful) with a radius scale |
-| Dark + neon accent | Brand or product category (creative tools, gaming) specifies it |
+| Dark + neon / acid-green / vermilion accent | Brand or product category (creative tools, gaming) specifies it |
+| Single-word italic or color in a headline | Editorial/fashion brief explicitly asks for that register |
 
 **Rule:** If DESIGN.md, brand guidelines, or shipped production CSS already commits to the look, it is authored — not a default. Cite the source in What changed / Detect notes.
 
@@ -22,6 +23,7 @@ Prefer leaving a tell over flattening real brand or intentional craft. Detect ca
 | Brutalist / raw | Deliberate harsh type, visible structure, no soft-card kit |
 | Maximal marketing | Authored variance across sections (rhythm chosen, not pasted) |
 | Editorial serif + cream | Brief or brand asks for warm print feel — not the unearned Claude-beige default |
+| Hero led by a real primary metric | Metric is verified and *is* the product story — not filler stats |
 | Monospace UI | Real data/code product where mono is the interface, not costume |
 | Bento / mosaic | Content genuinely has mixed sizes to display |
 
@@ -35,4 +37,4 @@ Identical card grids are OK for truly parallel items (e.g. three equal pricing d
 
 - **Detect:** list pattern + cite + suggested fix even for borderline cases; mark `override-likely` if brand may explain it.
 - **Edit:** apply override; do not "de-purple" a brand purple product.
-- **Draft:** without DESIGN.md, avoid the whole default cluster — do not replace purple SaaS with cream terracotta as the new mean.
+- **Draft:** without DESIGN.md, avoid the whole default cluster — do not replace purple SaaS with cream terracotta or acid-dark kits as the new mean.
