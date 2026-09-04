@@ -33,7 +33,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 4. **Material dose** — Glass, glow, soft multi-shadow are accents (≤1–2 surfaces), not page-wide soup.
 5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules: keep only when semantic; otherwise cut.
 6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, div-built fake product screens. Real data, labelled placeholders, or honest empty states.
-7. **Cream kit *and* acid-dark kit are tells** — Unearned cream + serif + terracotta, or near-black + acid-green/vermilion, rank with purple SaaS. Brand override only.
+7. **Cream, acid-dark, *and* broadsheet kits are tells** — Unearned cream + serif + terracotta; near-black + acid-green/vermilion; or hairline-rule broadsheet (zero radius, dense newspaper columns). Rank with purple SaaS. Brand / brief override only.
 8. **Motion restraint** — One authored moment beats bounce/elastic/infinite pulse. Honor `prefers-reduced-motion`.
 9. **Concentric radii** — Parent and padded child do not share the same radius. Spacing scale is deliberate.
 10. **Full interaction states** — Hover, focus, disabled, loading, empty, error. Real SVG icons or none.
@@ -61,6 +61,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | Inter / Geist / Space Grotesk / Instrument Serif | Ban unearned default; project fonts win; no new monoculture |
 | Cream + terracotta | Treat as 2026 AI cluster tell unless brief asks for it |
 | Near-black + acid-green / vermilion | Same — 2026 cluster; brand/category override only |
+| Broadsheet / newspaper kit | Treat as 2026 AI cluster tell #3 unless editorial/print brief asks for it |
 | Glass / glow / shadow | Dose-cap, not ban |
 | Eyebrows / section numbers | Purpose-gate (sequence only), not hard ban |
 | Single-word headline accent | Ban unearned italic/color-dip on one word; whole-line emphasis OK |

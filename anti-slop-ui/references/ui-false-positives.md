@@ -23,6 +23,7 @@ Prefer leaving a tell over flattening real brand or intentional craft. Detect ca
 | Brutalist / raw | Deliberate harsh type, visible structure, no soft-card kit |
 | Maximal marketing | Authored variance across sections (rhythm chosen, not pasted) |
 | Editorial serif + cream | Brief or brand asks for warm print feel — not the unearned Claude-beige default |
+| Broadsheet / hairline editorial | Brief or brand asks for print/newspaper/editorial register — authored, not the unearned cluster default |
 | Hero led by a real primary metric | Metric is verified and *is* the product story — not filler stats |
 | Monospace UI | Real data/code product where mono is the interface, not costume |
 | Bento / mosaic | Content genuinely has mixed sizes to display |
@@ -37,4 +38,4 @@ Identical card grids are OK for truly parallel items (e.g. three equal pricing d
 
 - **Detect:** list pattern + cite + suggested fix even for borderline cases; mark `override-likely` if brand may explain it.
 - **Edit:** apply override; do not "de-purple" a brand purple product.
-- **Draft:** without DESIGN.md, avoid the whole default cluster — do not replace purple SaaS with cream terracotta or acid-dark kits as the new mean.
+- **Draft:** without DESIGN.md, avoid the whole default cluster — do not replace purple SaaS with cream terracotta, acid-dark, or broadsheet kits as the new mean.
