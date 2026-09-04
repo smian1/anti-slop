@@ -12,6 +12,8 @@ Sharp human editor for prose. Cut AI patterns. Keep edge, humor, and uncertainty
 
 Load `references/` only when needed. Load a `recipes/` file when the venue matches.
 
+For interfaces (landings, product chrome, redesigns), use sibling skill `anti-slop-ui/` instead of this prose router.
+
 ## Modes
 
 | Mode | When | Do |

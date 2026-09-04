@@ -23,9 +23,11 @@ SOFTWARE.
 ------------------------------------------------------------------------------
 Attribution
 
-This skill adapts ideas from open anti-slop writing skills. Upstream authors
-retain copyright in their original works. Include their notices when
-redistributing substantial excerpts of those sources:
+This skill adapts ideas from open anti-slop writing and UI craft skills.
+Upstream authors retain copyright in their original works. Include their
+notices when redistributing substantial excerpts of those sources.
+
+Prose lineage:
 
   Hardik Pandya — stop-slop (https://github.com/hardikpandya/stop-slop)
   Peter Yang — no-ai-slop (https://github.com/petergyang/no-ai-slop)
@@ -39,3 +41,14 @@ redistributing substantial excerpts of those sources:
   jalaalrd (@jalaal_tweets) — anti-ai-slop-writing (jalaalrd/anti-ai-slop-writing)
 
 Also informed by Wikipedia: Signs of AI writing (WikiProject AI Cleanup).
+
+UI lineage (ideas only — not a merge of upstream skill bodies):
+
+  miqdadbadjuber — antislop-ui (https://github.com/miqdadbadjuber/anti-slop)
+  discountry — anti-ui-slop (https://github.com/discountry/ritmex-skills)
+  Leonxlnx — taste-skill (https://github.com/Leonxlnx/taste-skill)
+  Nutlope — hallmark (https://github.com/Nutlope/hallmark)
+  pbakaus — impeccable (https://github.com/pbakaus/impeccable)
+  Anthropic — frontend-design (https://github.com/anthropics/skills)
+  Gesso-Build — anti-slop guards (https://github.com/Gesso-Build/skills)
+  VoltAgent — awesome-design-md / getdesign.md (https://github.com/VoltAgent/awesome-design-md)
