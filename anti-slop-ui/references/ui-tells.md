@@ -69,6 +69,7 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 ## Positive defaults (short)
 
 - Palette, type, radius, spacing from DESIGN.md or existing tokens
+- Color, photography, illustration, and motion are good when they come from DESIGN.md — this skill removes defaults, not delight
 - Hierarchy via size, weight, and space before decoration
 - Layout follows content shape
 - Full states: hover, focus-visible, disabled, loading, empty, error

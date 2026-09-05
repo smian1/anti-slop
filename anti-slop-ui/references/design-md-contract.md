@@ -25,9 +25,11 @@ Optional: density, photography style, icon set, dark/light rules.
 
 ## Sterile default vs slop
 
-| Sterile (acceptable interim) | Slop (cut) |
-|------------------------------|------------|
-| Flat neutrals, clear type, real hierarchy, no decoration | Gradient orbs, Inter-everywhere, glass soup, fake metrics |
-| "Needs DESIGN.md" labelled | Looks finished but mean |
+Sterile is an interim safety state only when direction is missing, not the target aesthetic. The target is directed tokens that look good.
 
-Raising liveliness without direction is how cream kits and purple SaaS appear. Demand tokens first.
+| Interim sterile (only when direction is missing) | Slop (cut) |
+|-----------------------------------------------|------------|
+| Flat neutrals, clear type, real hierarchy, no decoration | Gradient orbs, Inter-everywhere, glass soup, fake metrics |
+| “Needs DESIGN.md” labelled | Looks finished but mean or fake |
+
+Raising liveliness **with** DESIGN.md is correct. Raising liveliness **without** direction is how purple/cream kits appear. Do not ship wireframe gray as “done”; add direction and make the result look good.

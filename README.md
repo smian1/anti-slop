@@ -9,7 +9,7 @@ Two sibling skills, one filter mindset:
 | **Anti-slop** (repo root) | `anti-slop` | AI writing tells in digests, Slack, org copy, blurbs, social |
 | **Anti-slop UI** (`anti-slop-ui/`) | `anti-slop-ui` | Generic AI interface tells on landings, product chrome, redesigns |
 
-Thin routers + deep references + venue recipes. Not a detector-evasion kit. Not a theme engine. Your voice and your DESIGN.md stay the source of beauty.
+Thin routers + deep references + venue recipes. Not a detector-evasion kit. Not a theme engine. Your voice and your DESIGN.md stay the source of beauty. Anti-slop UI is not anti-beauty: directed color, type, photography, motion, and material are welcome; the filter removes defaults, not delight.
 
 ## Install
 

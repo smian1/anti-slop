@@ -2,6 +2,10 @@
 
 Prefer leaving a tell over flattening real brand or intentional craft. Detect can still *name* the pattern; Edit should not force a rewrite when override applies.
 
+## Directed beauty is not slop
+
+Strong color systems, illustration, photography, bold type, and rich but authored materials are good when intentional and supported by DESIGN.md or brand direction. Keep them when they do real product or brand work. Anti-slop does not equal flat/no-color; remove defaults, not directed delight.
+
 ## Brand override
 
 | Looks like slop | Keep when |

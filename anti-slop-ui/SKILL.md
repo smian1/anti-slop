@@ -14,6 +14,14 @@ Sibling of prose `anti-slop` (repo root). Landing/marketing *copy* that reads as
 
 Not a theme engine. Not a palette catalog. Your DESIGN.md (or existing tokens) stays the source of beauty.
 
+## Anti-slop ≠ anti-beauty
+
+- Goal: a distinctive, good-looking product UI. Color, type, photography, motion, and material are welcome when directed.
+- Cut convergent AI defaults (unearned purple kits, template layouts, fake craft), not beauty itself.
+- Do not “fix” by draining the work to grayscale wireframes, zero accent, or comic-sans-free but lifeless chrome.
+- Prefer authored DESIGN.md beauty over both slop and barren interim chrome.
+- Edit: remove tells surgically; leave intentional color and craft. When unsure, leave it (reinforced in triage below).
+
 ## Modes
 
 | Mode | When | Do |
@@ -57,6 +65,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 
 | Topic | Decision |
 |-------|----------|
+| Beauty / color / craft | Encouraged when directed by brand/DESIGN.md; never “fix” by stripping to wireframes |
 | Purple / brand accent | Ban as default; allow when DESIGN.md/brand names it |
 | Inter / Geist / Space Grotesk / Instrument Serif | Ban unearned default; project fonts win; no new monoculture |
 | Cream + terracotta | Treat as 2026 AI cluster tell unless brief asks for it |
@@ -67,7 +76,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | Single-word headline accent | Ban unearned italic/color-dip on one word; whole-line emphasis OK |
 | UI landing copy | No em-dash theater in short UI strings; long marketing prose → sibling `anti-slop` |
 | Detect output | Pattern + cite + fix; Source/Render/Judgment — no authorship accusation, no numeric "AI score" |
-| Positive craft | Hierarchy via size/weight/space; one accent job; neutrals carry area |
+| Positive craft | Hierarchy via size/weight/space; neutrals carry area; accent still gets a real job; sites should look finished and intentional |
 
 ## Reference map
 
