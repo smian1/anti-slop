@@ -41,27 +41,30 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 | 21 | **Uniform pill radius on every control** | Hierarchy erased | Radius scale; CTA may be rounder than inputs |
 | 22 | **Same radius on parent and padded child** | Concentric fail; visually muddy | Inner radius = outer − padding (approx) |
 | 23 | **Default dashboard shell** — sidebar + 4 stat cards + chart + table before the job is named | App-side template mean | Name the user decision; build hierarchy around it |
+| 24 | **"Most Popular" pricing theater** — three tiers, middle one ringed/scaled with a capsule badge | Default SaaS pricing shape, not a plan decision | Use the real plan count/structure; highlight only when the offer earns it |
+| 25 | **Four-column template footer** — equal link columns + newsletter + social row by reflex | Universal generated footer whether or not the links exist | Build from real IA; fewer columns or a single link line is fine |
 
 ## Decoration & content honesty
 
 | # | Tell | Why | Fix |
 |---|------|-----|-----|
-| 24 | **Emoji / sparkle / ✨ / 🚀 as icons or CTA flair** | Loudest "generated" shorthand | Real SVG/set icons or none |
-| 25 | **"AI Powered" / glow capsule badges** (pill + glow + dot + uppercase) | Self-referential AI costume | Real status only (Beta/New when true); never decorative "AI Powered" |
-| 26 | **Generic stock illustrations** — Undraw / Storyset / blob characters with no product link | Decorated, not designed | Real screenshot, domain diagram, or none |
-| 27 | **Fake metrics / Jane Doe activity / invented logos** | Fabricated trust | Real data, labelled placeholder, or honest empty |
-| 28 | **Div-built fake product chrome** (traffic-light windows, pretend UI) | Costume screenshot | Real capture or abstract diagram labelled as such |
-| 29 | **Arrow on every button** (`→` / `↗`) | Direction cue becomes noise | Arrow only when navigation direction matters |
-| 30 | **UI copy chrome** — em dashes in short UI strings; middle-dot meta (`A · B · C`); `WORD — fragment` labels | Anthropic template chrome; bleeds from prose slop | Sentence case; cut theater punctuation; for long landing prose see sibling `anti-slop` |
-| 31 | **Tinted near-black ink** (`#0B0B0B`, `#111`) standing in for black across the page | Template chrome; reads “AI default dark” independent of subject | Token ink / true black, or brand-specified near-black with a written reason |
+| 26 | **Emoji / sparkle / ✨ / 🚀 as icons or CTA flair** | Loudest "generated" shorthand | Real SVG/set icons or none |
+| 27 | **"AI Powered" / glow capsule badges** (pill + glow + dot + uppercase) | Self-referential AI costume | Real status only (Beta/New when true); never decorative "AI Powered" |
+| 28 | **Generic stock illustrations** — Undraw / Storyset / blob characters with no product link | Decorated, not designed | Real screenshot, domain diagram, or none |
+| 29 | **Fake metrics / Jane Doe activity / invented logos** | Fabricated trust | Real data, labelled placeholder, or honest empty |
+| 30 | **Div-built fake product chrome** (traffic-light windows, pretend UI) | Costume screenshot | Real capture or abstract diagram labelled as such |
+| 31 | **Arrow on every button** (`→` / `↗`) | Direction cue becomes noise | Arrow only when navigation direction matters |
+| 32 | **Scroll cues** — "Scroll to explore", "Swipe down", bouncing chevron, animated mouse-wheel icon | Labels a behavior the user already knows; hero costume | Cut; let fold composition imply continuation |
+| 33 | **UI copy chrome** — em dashes in short UI strings; middle-dot meta (`A · B · C`); `WORD — fragment` labels | Anthropic template chrome; bleeds from prose slop | Sentence case; cut theater punctuation; for long landing prose see sibling `anti-slop` |
+| 34 | **Tinted near-black ink** (`#0B0B0B`, `#111`) standing in for black across the page | Template chrome; reads “AI default dark” independent of subject | Token ink / true black, or brand-specified near-black with a written reason |
 
 ## Motion
 
 | # | Tell | Why | Fix |
 |---|------|-----|-----|
-| 32 | **Bounce / elastic easing** as default | Toy motion on serious UI | Standard ease; spring only if brand asks |
-| 33 | **Infinite pulse / float loops** without user trigger | Perpetual noise | One authored moment; stop; honor `prefers-reduced-motion` |
-| 34 | **Fade-up on every section + hover on every card** | Scattered motion, no focal point | Choreograph one entrance or none |
+| 35 | **Bounce / elastic easing** as default | Toy motion on serious UI | Standard ease; spring only if brand asks |
+| 36 | **Infinite pulse / float loops** without user trigger | Perpetual noise | One authored moment; stop; honor `prefers-reduced-motion` |
+| 37 | **Fade-up on every section + hover on every card** | Scattered motion, no focal point | Choreograph one entrance or none |
 
 ## Positive defaults (short)
 

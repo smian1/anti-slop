@@ -17,6 +17,9 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] Radius + spacing scale; concentric radii respected
 - [ ] No tinted-near-black-as-default-ink; no identical-card soft-grey shadow soup; mono not used as page-wide meta costume
 - [ ] App screens built around the user decision, not sidebar+stats+chart+table by default
+- [ ] Pricing follows the real offer (not three tiers + "Most Popular" capsule by default)
+- [ ] Footer built from real IA (not four equal columns + newsletter + social by reflex)
+- [ ] No "Scroll to explore" / bouncing chevron / mouse-wheel scroll costume
 
 ## Material & motion
 

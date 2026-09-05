@@ -27,6 +27,9 @@ Prefer leaving a tell over flattening real brand or intentional craft. Detect ca
 | Hero led by a real primary metric | Metric is verified and *is* the product story — not filler stats |
 | Monospace UI | Real data/code product where mono is the interface, not costume |
 | Bento / mosaic | Content genuinely has mixed sizes to display |
+| Middle plan highlighted | Real offer has a clear recommended tier *and* the badge is not the stock "Most Popular" costume |
+| Multi-column footer | Site actually has that many top-level link groups |
+| Scroll affordance | Long editorial/scrollytelling brief that *needs* an authored scroll prompt (rare) |
 
 ## Marketing variance
 
