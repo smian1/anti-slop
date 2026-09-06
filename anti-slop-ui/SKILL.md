@@ -35,10 +35,10 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 
 ## Non-negotiables
 
-1. **Purpose-gate color** — Purple/indigo/cyan–pink gradients, mesh/orb blobs are banned as unearned defaults. OK when brand or DESIGN.md specifies them.
+1. **Purpose-gate color** — Purple/indigo/cyan–pink gradients, mesh/orb blobs, and unearned solid Tailwind indigo/blue-500 primaries are banned as defaults. OK when brand or DESIGN.md specifies them.
 2. **No font monoculture** — Ban unearned Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif / unstated system-sans as identity defaults. Use DESIGN.md or project fonts. Do not crown a replacement default.
-3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No stock "Most Popular" three-tier pricing or four-column template footer by reflex.
-4. **Material dose** — Glass, glow, soft multi-shadow are accents (≤1–2 surfaces), not page-wide soup.
+3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No dual equal "Get Started" / "Learn More" hero CTAs. No stock "Most Popular" three-tier pricing or four-column template footer by reflex.
+4. **Material dose** — Glass, glow, soft multi-shadow are accents (≤1–2 surfaces), not page-wide soup. No reflexive sticky frosted starter nav.
 5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules, "Scroll to explore" cues: keep only when semantic; otherwise cut.
 6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, div-built fake product screens. Real data, labelled placeholders, or honest empty states.
 7. **Cream, acid-dark, *and* broadsheet kits are tells** — Unearned cream + serif + terracotta; near-black + acid-green/vermilion; or hairline-rule broadsheet (zero radius, dense newspaper columns). Rank with purple SaaS. Brand / brief override only.
@@ -68,7 +68,11 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | Beauty / color / craft | Encouraged when directed by brand/DESIGN.md; never “fix” by stripping to wireframes |
 | Purple / brand accent | Ban as default; allow when DESIGN.md/brand names it |
 | Inter / Geist / Space Grotesk / Instrument Serif | Ban unearned default; project fonts win; no new monoculture |
-| Cream + terracotta | Treat as 2026 AI cluster tell unless brief asks for it |
+| Cream + terracotta (+ cream+sage twin) | Treat as 2026 AI cluster tell unless brief asks for it |
+| Low-contrast gray body | Ban as primary text; grey only for true metadata |
+| Dark-only zinc + violet shell | Treat as unearned starter unless product is night-native |
+| Dual equal hero CTAs | One dominant CTA; demote secondary |
+| Sticky frosted starter nav | Ban reflexive blur header; brand glass chrome OK |
 | Near-black + acid-green / vermilion | Same — 2026 cluster; brand/category override only |
 | Broadsheet / newspaper kit | Treat as 2026 AI cluster tell #3 unless editorial/print brief asks for it |
 | Glass / glow / shadow | Dose-cap, not ban |
