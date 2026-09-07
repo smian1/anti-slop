@@ -39,8 +39,8 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 2. **No font monoculture** — Ban unearned Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif / unstated system-sans as identity defaults. Use DESIGN.md or project fonts. Do not crown a replacement default.
 3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No dual equal "Get Started" / "Learn More" hero CTAs. No stock "Most Popular" three-tier pricing or four-column template footer by reflex.
 4. **Material dose** — Glass, glow, soft multi-shadow are accents (≤1–2 surfaces), not page-wide soup. No reflexive sticky frosted starter nav.
-5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules, "Scroll to explore" cues: keep only when semantic; otherwise cut.
-6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, div-built fake product screens. Real data, labelled placeholders, or honest empty states.
+5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules, "Scroll to explore" cues, faint background grids, Lucide/Heroicons monoline icon-card grids: keep only when semantic; otherwise cut.
+6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, AI-generated people as real humans, div-built or tilted fake product screens, or "Trusted by" logo strips without real permitted logos. Real data, labelled placeholders, or honest empty states.
 7. **Cream, acid-dark, *and* broadsheet kits are tells** — Unearned cream + serif + terracotta; near-black + acid-green/vermilion; or hairline-rule broadsheet (zero radius, dense newspaper columns). Rank with purple SaaS. Brand / brief override only.
 8. **Motion restraint** — One authored moment beats bounce/elastic/infinite pulse. Honor `prefers-reduced-motion`.
 9. **Concentric radii** — Parent and padded child do not share the same radius. Spacing scale is deliberate.
@@ -81,6 +81,9 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | UI landing copy | No em-dash theater in short UI strings; long marketing prose → sibling `anti-slop` |
 | Detect output | Pattern + cite + fix; Source/Render/Judgment — no authorship accusation, no numeric "AI score" |
 | Positive craft | Hierarchy via size/weight/space; neutrals carry area; accent still gets a real job; sites should look finished and intentional |
+| Background grid / Trusted-by strip | Ban unearned; brand/proof override only |
+| AI-generated people as real | Never; abstract AI art OK when labelled as such |
+| Lucide / Heroicons monoline grid | Ban as unearned icon-card default; no crowned replacement set |
 
 ## Reference map
 

@@ -20,6 +20,9 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Frosted sticky nav | Product is glass-forward with a controlled dose (not the starter logo/links/CTA blur bar) |
 | Grey secondary labels | Truly secondary metadata (timestamps, captions), not body copy |
 | Single-word italic or color in a headline | Editorial/fashion brief explicitly asks for that register |
+| Background grid / blueprint | Brand or product category (CAD, engineering, map) specifies technical grid texture |
+| "Trusted by" logo row | Logos are real customers with permission, full opacity, not a faded marquee costume |
+| Lucide / outline icons | Product already standardized on that set *and* icons carry specific meaning (not decorative 3-up chips) |
 
 **Rule:** If DESIGN.md, brand guidelines, or shipped production CSS already commits to the look, it is authored — not a default. Cite the source in What changed / Detect notes.
 
@@ -38,6 +41,8 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Two hero actions | Both actions are real and primary for the audience (rare); still prefer visual hierarchy |
 | Multi-column footer | Site actually has that many top-level link groups |
 | Scroll affordance | Long editorial/scrollytelling brief that *needs* an authored scroll prompt (rare) |
+| AI illustration (abstract) | Openly abstract/illustrative work, not presented as a real person or customer |
+| Real customer logos | Named, permitted, readable — proof, not grayscale wallpaper |
 
 ## Marketing variance
 

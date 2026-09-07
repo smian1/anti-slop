@@ -32,9 +32,13 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 ## Honesty & states
 
 - [ ] No emoji/sparkle iconography or decorative "AI Powered" capsules; real SVG/set or none
-- [ ] No generic Undraw/blob illustrations standing in for product proof
+- [ ] No generic Undraw/blob / Corporate Memphis illustrations standing in for product proof
+- [ ] No faint dotted/line/blueprint background grid as unearned texture
+- [ ] No "Trusted by" grayscale logo strip or logo marquee without real, permitted logos
+- [ ] No AI-generated people presented as real customers, teammates, or testimonials
+- [ ] No unearned Lucide/Heroicons monoline icon-card grid as the whole feature vocabulary
 - [ ] Metrics, names, logos, feeds are real or clearly labelled placeholders
-- [ ] No div fake product chrome standing in for screenshots
+- [ ] No div fake product chrome or tilted fake-browser mockups standing in for screenshots
 - [ ] Short UI strings free of em-dash / middle-dot theater; long landing prose checked with sibling `anti-slop` if needed
 - [ ] Hover, focus-visible, disabled, loading, empty, error exist where interaction exists
 - [ ] Empty/error copy names cause + next action

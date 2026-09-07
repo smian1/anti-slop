@@ -54,21 +54,27 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 |---|------|-----|-----|
 | 30 | **Emoji / sparkle / ✨ / 🚀 as icons or CTA flair** | Loudest "generated" shorthand | Real SVG/set icons or none |
 | 31 | **"AI Powered" / glow capsule badges** (pill + glow + dot + uppercase) | Self-referential AI costume | Real status only (Beta/New when true); never decorative "AI Powered" |
-| 32 | **Generic stock illustrations** — Undraw / Storyset / blob characters with no product link | Decorated, not designed | Real screenshot, domain diagram, or none |
+| 32 | **Generic stock illustrations** — Undraw / Storyset / blob characters, *or* Corporate Memphis / Alegria noodle-limb flat people with no product link | Decorated, not designed; Memphis is the pre-AI twin of the blob pack | Real screenshot, domain diagram, distinctive commissioned style, or none |
 | 33 | **Fake metrics / Jane Doe activity / invented logos** | Fabricated trust | Real data, labelled placeholder, or honest empty |
-| 34 | **Div-built fake product chrome** (traffic-light windows, pretend UI) | Costume screenshot | Real capture or abstract diagram labelled as such |
+| 34 | **Div-built fake product chrome** — traffic-light windows, pretend UI, *or* tilted/isometric floating browser frames with invented dashboards | Costume screenshot; the tilt-frame is the same lie at an angle | Real capture flat and legible, or abstract diagram labelled as such |
 | 35 | **Arrow on every button** (`→` / `↗`) | Direction cue becomes noise | Arrow only when navigation direction matters |
 | 36 | **Scroll cues** — "Scroll to explore", "Swipe down", bouncing chevron, animated mouse-wheel icon | Labels a behavior the user already knows; hero costume | Cut; let fold composition imply continuation |
 | 37 | **UI copy chrome** — em dashes in short UI strings; middle-dot meta (`A · B · C`); `WORD — fragment` labels | Anthropic template chrome; bleeds from prose slop | Sentence case; cut theater punctuation; for long landing prose see sibling `anti-slop` |
 | 38 | **Tinted near-black ink** (`#0B0B0B`, `#111`) standing in for black across the page | Template chrome; reads “AI default dark” independent of subject | Token ink / true black, or brand-specified near-black with a written reason |
 
+
+| 39 | **Faint background grid** — dotted / line / blueprint / graph-paper texture behind the hero or page (`bg-[url(/grid.svg)]`, `white/5` grid) | Technical costume with no identity job; purple-gradient companion | Brand-meaningful texture or clean space; grid only when DESIGN.md names it |
+| 40 | **"Trusted by" logo strip** — grayscale / low-opacity logo row or auto-scrolling marquee under the hero (often with no real customers) | Trust costume; faded logos read as decoration, not evidence | Real logos with permission at readable opacity, or one named proof point, or omit |
+| 41 | **AI-generated people as real** — photoreal generated faces/hands as customers, team, or testimonials (waxy skin, melted hands, dead eyes, garbled jewelry) | Fabricated humans; disclosure and trust failure | Real photography; never present a generated person as a real customer/teammate |
+| 42 | **Lucide / Heroicons monoline icon-card grid** — identical 1.5px outline glyphs in rounded tinted squares as the whole feature vocabulary | Starter icon monoculture (Inter's cousin for icons) | One deliberate set with weight/treatment; icons that identify a specific thing; or none — do not crown a replacement library |
+
 ## Motion
 
 | # | Tell | Why | Fix |
 |---|------|-----|-----|
-| 39 | **Bounce / elastic easing** as default | Toy motion on serious UI | Standard ease; spring only if brand asks |
-| 40 | **Infinite pulse / float loops** without user trigger | Perpetual noise | One authored moment; stop; honor `prefers-reduced-motion` |
-| 41 | **Fade-up on every section + hover lift on every card** (`hover:scale-105` / `-translate-y` + shadow) | Scattered motion, no focal point | Choreograph one entrance or none; hover only on genuinely clickable surfaces |
+| 43 | **Bounce / elastic easing** as default | Toy motion on serious UI | Standard ease; spring only if brand asks |
+| 44 | **Infinite pulse / float loops** without user trigger | Perpetual noise | One authored moment; stop; honor `prefers-reduced-motion` |
+| 45 | **Fade-up on every section + hover lift on every card** (`hover:scale-105` / `-translate-y` + shadow) | Scattered motion, no focal point | Choreograph one entrance or none; hover only on genuinely clickable surfaces |
 
 ## Positive defaults (short)
 
