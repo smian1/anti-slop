@@ -16,6 +16,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] Section order follows content; no empty template sections; hero is not the stock metric template unless metrics are the product
 - [ ] Hero has one dominant CTA (not equal "Get Started" + "Learn More" twins)
 - [ ] Feature treatments reflect hierarchy (not three identical icon-tile cards by default)
+- [ ] No unearned bento-grid mosaic (mixed-size tiles only when size encodes real hierarchy)
 - [ ] No meaningless side-tab stripes or 01/02/03 theater on non-sequences
 - [ ] Radius + spacing scale; concentric radii respected
 - [ ] No tinted-near-black-as-default-ink; no identical-card soft-grey shadow soup; mono not used as page-wide meta costume

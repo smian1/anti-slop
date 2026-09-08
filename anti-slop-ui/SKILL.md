@@ -37,7 +37,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 
 1. **Purpose-gate color** — Purple/indigo/cyan–pink gradients, mesh/orb blobs, and unearned solid Tailwind indigo/blue-500 primaries are banned as defaults. OK when brand or DESIGN.md specifies them.
 2. **No font monoculture** — Ban unearned Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif / unstated system-sans as identity defaults. Use DESIGN.md or project fonts. Do not crown a replacement default.
-3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No dual equal "Get Started" / "Learn More" hero CTAs. No stock "Most Popular" three-tier pricing or four-column template footer by reflex.
+3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No unearned bento-grid mosaic as the default section. No dual equal "Get Started" / "Learn More" hero CTAs. No stock "Most Popular" three-tier pricing or four-column template footer by reflex.
 4. **Material dose** — Glass, glow, soft multi-shadow are accents (≤1–2 surfaces), not page-wide soup. No reflexive sticky frosted starter nav.
 5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules, "Scroll to explore" cues, faint background grids, Lucide/Heroicons monoline icon-card grids: keep only when semantic; otherwise cut.
 6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, AI-generated people as real humans, div-built or tilted fake product screens, or "Trusted by" logo strips without real permitted logos. Real data, labelled placeholders, or honest empty states.
@@ -72,6 +72,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | Low-contrast gray body | Ban as primary text; grey only for true metadata |
 | Dark-only zinc + violet shell | Treat as unearned starter unless product is night-native |
 | Dual equal hero CTAs | One dominant CTA; demote secondary |
+| Unearned bento mosaic | Ban as default section; keep when tile sizes encode real hierarchy |
 | Sticky frosted starter nav | Ban reflexive blur header; brand glass chrome OK |
 | Near-black + acid-green / vermilion | Same — 2026 cluster; brand/category override only |
 | Broadsheet / newspaper kit | Treat as 2026 AI cluster tell #3 unless editorial/print brief asks for it |
