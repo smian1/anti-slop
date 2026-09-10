@@ -22,6 +22,7 @@ Run after Edit/Draft before returning. Answer pass/fail. Fix failures. Use this 
 13. Binary contrasts, negative listings, rhetorical setups, throat-clearing gone?
 14. Faux-insight, colon drama, -ing puffery, fake-strong verbs, synonym cycling, fragment stacks, robotic rhythm fixed?
 15. Weasel attribution → named source or flagged for user?
+15b. Vague association (*associated with* / *in connection with*) → concrete relationship, or keep when the source itself is vague?
 16. Metadiscourse / importance-flagging / demonstrative kickers removed?
 17. Fake-profound kickers deleted (not rewritten into better metaphors)?
 18. Summary-recap endings cut — ends on concrete point or next action?

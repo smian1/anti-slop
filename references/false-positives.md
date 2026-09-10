@@ -34,6 +34,7 @@ A false positive that flattens a good sentence is worse than one surviving tell.
 - Non-native English choices that are clear and intentional (detectors over-flag ELL writing — do not "fix" accent or atypical grammar into generic Mid-Atlantic).
 - Neurodivergent rhythm / info-dump density when it is the author's real cadence — cut formula, not cognition.
 - Scientific domain terms (*weighted interval score*, gene names) — precision ≠ jargon.
+- Legitimate *associated with* / *linked to* in science, epidemiology, or sourcing when the relationship is genuinely unknown or statistical — cut only when it hides a concrete role the source already names.
 - Semicolons and complex punctuation (not a tell).
 - Parentheses (allowed).
 

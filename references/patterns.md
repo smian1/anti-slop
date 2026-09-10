@@ -33,24 +33,25 @@ Load for Edit/Detect depth; SKILL.md already covers the non-negotiables.
 | 25 | **Treadmill / low density** — long restatement of one idea | Advance the claim or cut |
 | 26 | **Say feeling not mechanism** — "SQL you can read", "close at hand" | Number, instruction, or mechanism |
 | 27 | **Invented concept labels / grandiose stakes** — the supervision paradox; will define the next decade | Plain claim + scope |
+| 28 | **Vague connection / association mush** — *associated with*, *in connection with*, *connected to*, *linked to*, *tied to* when it hides a concrete relationship | Name the relationship the source gives (CEO of, founded, calls the API). If the source is vague, keep vagueness — do not invent a role |
 
 ## Style / formatting
 
 | # | Pattern | Fix |
 |---|---------|-----|
-| 28 | **Em dash overuse** | None in short copy; sample may restore in essays; parentheses allowed |
-| 29 | **Bold / emoji / title-case decoration** | Sentence case; prose over decorative bullets |
-| 30 | **Inline-header lists** — **Performance:** Performance improved… | Prose, or bold lead that adds new detail |
-| 31 | **Robotic rhythm / uniform paragraphs** | Vary length and shape |
-| 32 | **Parataxis stacks** (long prose) — Short. Short. Short. | Connect with clauses/semicolons |
-| 33 | **Correlative bloat** — not only… but also | Split or simplify |
-| 34 | **Hedged confidence / qualifier stacks** | Take the position or cut |
-| 35 | **Filler phrases** — in order to, due to the fact that | To / because / delete |
-| 36 | **Chatbot residue** | Delete; answer directly |
-| 37 | **Cutoff disclaimers** — While specific details are limited… | Find sources or remove |
-| 38 | **Sycophantic tone** | Respond directly |
-| 39 | **Answering objections nobody raised / argument residue** | Cut rebuttals to ghosts |
-| 40 | **Placeholder / Mad Libs** — `[Your Name]`, `XXXX` | Fill or remove before ship |
+| 29 | **Em dash overuse** | None in short copy; sample may restore in essays; parentheses allowed |
+| 30 | **Bold / emoji / title-case decoration** | Sentence case; prose over decorative bullets |
+| 31 | **Inline-header lists** — **Performance:** Performance improved… | Prose, or bold lead that adds new detail |
+| 32 | **Robotic rhythm / uniform paragraphs** | Vary length and shape |
+| 33 | **Parataxis stacks** (long prose) — Short. Short. Short. | Connect with clauses/semicolons |
+| 34 | **Correlative bloat** — not only… but also | Split or simplify |
+| 35 | **Hedged confidence / qualifier stacks** | Take the position or cut |
+| 36 | **Filler phrases** — in order to, due to the fact that | To / because / delete |
+| 37 | **Chatbot residue** | Delete; answer directly |
+| 38 | **Cutoff disclaimers** — While specific details are limited… | Find sources or remove |
+| 39 | **Sycophantic tone** | Respond directly |
+| 40 | **Answering objections nobody raised / argument residue** | Cut rebuttals to ghosts |
+| 41 | **Placeholder / Mad Libs** — `[Your Name]`, `XXXX` | Fill or remove before ship |
 
 ## Forensic — DETECT only (do not teach as writing tips)
 
