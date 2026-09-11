@@ -33,6 +33,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 ## Honesty & states
 
 - [ ] No emoji/sparkle iconography or decorative "AI Powered" capsules; real SVG/set or none
+- [ ] No decorative status dots (glowing/pulsing dots beside headings/labels that mark nothing live); real status only
 - [ ] No generic Undraw/blob / Corporate Memphis illustrations standing in for product proof
 - [ ] No faint dotted/line/blueprint background grid as unearned texture
 - [ ] No "Trusted by" grayscale logo strip or logo marquee without real, permitted logos

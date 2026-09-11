@@ -68,6 +68,7 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 | 41 | **"Trusted by" logo strip** — grayscale / low-opacity logo row or auto-scrolling marquee under the hero (often with no real customers) | Trust costume; faded logos read as decoration, not evidence | Real logos with permission at readable opacity, or one named proof point, or omit |
 | 42 | **AI-generated people as real** — photoreal generated faces/hands as customers, team, or testimonials (waxy skin, melted hands, dead eyes, garbled jewelry) | Fabricated humans; disclosure and trust failure | Real photography; never present a generated person as a real customer/teammate |
 | 43 | **Lucide / Heroicons monoline icon-card grid** — identical 1.5px outline glyphs in rounded tinted squares as the whole feature vocabulary | Starter icon monoculture (Inter's cousin for icons) | One deliberate set with weight/treatment; icons that identify a specific thing; or none — do not crown a replacement library |
+| 47 | **Decorative status dot** — small colored/glowing/pulsing dot beside a heading, eyebrow, nav item, or label that marks nothing live | Borrows recording/live-indicator vocabulary as costume; same placement on every generated page | Dot only for a real state (active, live, recording, warning); drop glow and endless pulse; if it marks nothing, remove it |
 
 ## Motion
 
