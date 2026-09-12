@@ -43,7 +43,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, AI-generated people as real humans, div-built or tilted fake product screens, or "Trusted by" logo strips without real permitted logos. Real data, labelled placeholders, or honest empty states.
 7. **Cream, acid-dark, *and* broadsheet kits are tells** — Unearned cream + serif + terracotta; near-black + acid-green/vermilion; or hairline-rule broadsheet (zero radius, dense newspaper columns). Rank with purple SaaS. Brand / brief override only.
 8. **Motion restraint** — One authored moment beats bounce/elastic/infinite pulse. Honor `prefers-reduced-motion`.
-9. **Concentric radii** — Parent and padded child do not share the same radius. Spacing scale is deliberate.
+9. **Radius scale** — No oversized uniform radius on every surface (`rounded-2xl` everywhere). Parent and padded child do not share the same radius. Spacing scale is deliberate.
 10. **Full interaction states** — Hover, focus, disabled, loading, empty, error. Real SVG icons or none.
 
 ## Edit triage
@@ -86,6 +86,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | AI-generated people as real | Never; abstract AI art OK when labelled as such |
 | Lucide / Heroicons monoline grid | Ban as unearned icon-card default; no crowned replacement set |
 | Decorative status dot | Ban when it marks nothing; real live/active/warning dots OK without glow/pulse costume |
+| Oversized uniform radius | Ban same large radius on cards/buttons/inputs/images; use a short scale |
 
 ## Reference map
 

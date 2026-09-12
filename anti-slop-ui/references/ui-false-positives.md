@@ -15,6 +15,7 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Glass / blur | Product *is* glass-forward (visionOS-style, intentional frosted panels) and dose is controlled |
 | Soft shadows | Elevation system from tokens; not random per-card glow |
 | Rounded pills | Brand explicitly pill-shaped (consumer, playful) with a radius scale |
+| Large / soft corners | DESIGN.md names a soft radius system with more than one token (not one `rounded-2xl` on every surface) |
 | Dark + neon / acid-green / vermilion accent | Brand or product category (creative tools, gaming) specifies it |
 | Dark-only UI | Product is night-native (creative tools, trading, cinema) *and* neutrals are authored, not stock zinc+violet |
 | Frosted sticky nav | Product is glass-forward with a controlled dose (not the starter logo/links/CTA blur bar) |

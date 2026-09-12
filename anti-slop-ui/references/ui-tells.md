@@ -25,7 +25,7 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 | # | Tell | Why | Fix |
 |---|------|-----|-----|
 | 12 | **Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif** (or unstated system stack) as unearned identity | Font monoculture / default roster | DESIGN.md / project fonts; do not crown a replacement default |
-| 13 | **Tracked ALL-CAPS eyebrows** above every heading | Template chrome | Cut or keep once when the label is real taxonomy |
+| 13 | **Tracked ALL-CAPS eyebrows / wide letter-spacing on labels** — `tracking-widest` / inflated letter-spacing on eyebrows, chips, and section labels | Template chrome; wide tracking auto-applied until type goes brittle | Cut or keep once when the label is real taxonomy; tighten tracking on display type |
 | 14 | **Single-word headline accent** — one word italic, bold, or color-dipped; two-tone H1 | Trying-to-look-editorial costume | Solid roman headline; emphasis via weight/size of the whole line |
 | 15 | **Monospace-as-aesthetic** — mono headings, fake terminal hero, *or* mono on every small data/meta label | Developer/template costume | Real screenshot or brand type; mono only for real code/data UI |
 
@@ -69,6 +69,7 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 | 42 | **AI-generated people as real** — photoreal generated faces/hands as customers, team, or testimonials (waxy skin, melted hands, dead eyes, garbled jewelry) | Fabricated humans; disclosure and trust failure | Real photography; never present a generated person as a real customer/teammate |
 | 43 | **Lucide / Heroicons monoline icon-card grid** — identical 1.5px outline glyphs in rounded tinted squares as the whole feature vocabulary | Starter icon monoculture (Inter's cousin for icons) | One deliberate set with weight/treatment; icons that identify a specific thing; or none — do not crown a replacement library |
 | 47 | **Decorative status dot** — small colored/glowing/pulsing dot beside a heading, eyebrow, nav item, or label that marks nothing live | Borrows recording/live-indicator vocabulary as costume; same placement on every generated page | Dot only for a real state (active, live, recording, warning); drop glow and endless pulse; if it marks nothing, remove it |
+| 48 | **Oversized uniform radius** — same large corner (`rounded-2xl` / ~16–24px+) on cards, buttons, inputs, images, and badges | Softens hierarchy; “everything is a soft blob” silhouette (sibling of pill-everywhere and SaaS-card kit) | Short radius scale (e.g. controls 4–8px, panels 8–12px); sharp or brand-specific corners when the product earns them; do not crown one replacement radius |
 
 ## Motion
 
