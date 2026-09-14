@@ -20,6 +20,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] No meaningless side-tab stripes or 01/02/03 theater on non-sequences
 - [ ] Radius + spacing scale (not one oversized radius on every surface); concentric radii respected
 - [ ] No tinted-near-black-as-default-ink; no identical-card soft-grey shadow soup; mono not used as page-wide meta costume
+- [ ] No untouched shadcn/Tailwind starter theme (stock Card + slate/zinc `baseColor` + default `--primary`/`--radius` shipped as brand)
 - [ ] App screens built around the user decision, not sidebar+stats+chart+table by default
 - [ ] Pricing follows the real offer (not three tiers + "Most Popular" capsule by default)
 - [ ] Footer built from real IA (not four equal columns + newsletter + social by reflex)

@@ -37,7 +37,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 
 1. **Purpose-gate color** — Purple/indigo/cyan–pink gradients, mesh/orb blobs, and unearned solid Tailwind indigo/blue-500 primaries are banned as defaults. OK when brand or DESIGN.md specifies them.
 2. **No font monoculture** — Ban unearned Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif / unstated system-sans as identity defaults. Use DESIGN.md or project fonts. Do not crown a replacement default.
-3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No unearned bento-grid mosaic as the default section. No dual equal "Get Started" / "Learn More" hero CTAs. No stock "Most Popular" three-tier pricing or four-column template footer by reflex.
+3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No unearned bento-grid mosaic as the default section. No dual equal "Get Started" / "Learn More" hero CTAs. No stock "Most Popular" three-tier pricing or four-column template footer by reflex. No untouched shadcn/Tailwind Card + slate/zinc starter theme as the product look.
 4. **Material dose** — Glass, glow, soft multi-shadow are accents (≤1–2 surfaces), not page-wide soup. No reflexive sticky frosted starter nav.
 5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules, decorative status dots, "Scroll to explore" cues, faint background grids, Lucide/Heroicons monoline icon-card grids: keep only when semantic; otherwise cut.
 6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, AI-generated people as real humans, div-built or tilted fake product screens, or "Trusted by" logo strips without real permitted logos. Real data, labelled placeholders, or honest empty states.
@@ -87,6 +87,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | Lucide / Heroicons monoline grid | Ban as unearned icon-card default; no crowned replacement set |
 | Decorative status dot | Ban when it marks nothing; real live/active/warning dots OK without glow/pulse costume |
 | Oversized uniform radius | Ban same large radius on cards/buttons/inputs/images; use a short scale |
+| Untouched shadcn / Tailwind Card defaults | Ban stock Card + slate/zinc base shipped as brand; theme tokens first |
 
 ## Reference map
 

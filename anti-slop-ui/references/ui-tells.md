@@ -48,6 +48,7 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 | 28 | **Dual equal hero CTAs** — same-size "Get Started" + "Learn More" (or solid + ghost twins) | Starter hero fingerprint; secondary is a non-action | One dominant CTA; demote secondary to a text link with a real label |
 | 29 | **Sticky frosted starter nav** — logo / centered links / right CTA / `backdrop-blur` translucent bar by reflex | Universal shadcn/v0 header costume | Solid or transparent-over-hero; no reflexive blur; place links for this product |
 | 30 | **Unearned bento-grid mosaic** — mixed-size tile section (2×2 / spanning cells) as the default composition regardless of content shape | 2026 saturated layout default (sibling of the 3-card grid); looks "app-like" without encoding real hierarchy | Use only when tiles genuinely differ in importance and size encodes that; else list, editorial block, or simple grid — do not crown bento as the escape hatch |
+| 49 | **Untouched shadcn / Tailwind starter theme** — stock Card `rounded-lg border bg-card text-card-foreground shadow-sm` repeated; `components.json` `baseColor` left at slate/zinc; default `--primary` / `--radius` unedited | Tool defaults shipped as brand; top concrete "they all look the same" cause in 2026 vibe-coded Reddit census (independent of purple) | Theme before building: real `--primary`, deliberate radius, custom neutrals; a Card should not match the shadcn docs Card in a screenshot |
 
 ## Decoration & content honesty
 
