@@ -6,7 +6,7 @@ Signed-in UI: shells, dashboards, settings, tables. Built around the job, not th
 
 - **Edit** default: minimum visual change; preserve routes and real data.
 - Name the screen's job and the one decision the user makes — then hierarchy.
-- Tokens/DESIGN.md for color, type, radius. Status colors only on status.
+- Tokens/DESIGN.md for color, type, radius. Status colors only on status. No rainbow category chips or hash-to-hue tags — rank with order/type/greys first.
 - Dense is fine when information density is the product.
 
 ## Cuts that matter most here

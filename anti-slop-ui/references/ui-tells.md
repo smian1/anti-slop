@@ -17,6 +17,7 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 | 7 | **Near-black + acid-green / vermilion accent kit** unearned | 2026 AI cluster twin of cream kit | Brand/product category override only; else derive accent from subject |
 | 8 | **Broadsheet / newspaper kit** unearned — hairline rules, zero border-radius, dense multi-column “print” layout | 2026 AI cluster look #3 (sibling of cream + acid-dark) | Brand/editorial brief only; else derive layout from subject, not the print costume |
 | 9 | **Too many accents** — accent on buttons, icons, badges, links, glows at once | Accent stops being accent | One accent job; neutrals carry area; status colors only on status |
+| 50 | **Hue-first meaning** — rainbow category chips, a different accent per feature/section, five-step severity color ramps, or hash-a-string-to-a-hue tags before order, grouping, type weight/size, or greyscale carry the difference | Color as fake hierarchy; forces a legend for info rank already gave | Encode with order → grouping → weight/size → greys first; hue last (one semantic state or a controlled chart ramp). Never sole carrier of meaning; no string-hashed chip colors |
 | 10 | **Low-contrast muted body** — `gray-400/500` / `slate-400` body on white or dark | AI default + WCAG fail; secondary grey used as primary text | Near-black body on light (≥ gray-700 / ~#1a1a1a); light body on dark (≥ slate-200); grey only for true metadata |
 | 11 | **Unearned dark-only / unmodified zinc–violet SaaS shell** — forced dark page, zinc-950/900/800 + violet accent, no light theme | "Dark = premium" starter stack; hides layout sins | Default light unless the product lives at night; temperature the neutrals; replace violet with brand accent |
 
@@ -84,7 +85,7 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 
 - Palette, type, radius, spacing from DESIGN.md or existing tokens
 - Color, photography, illustration, and motion are good when they come from DESIGN.md — this skill removes defaults, not delight
-- Hierarchy via size, weight, and space before decoration
+- Hierarchy via order, grouping, size, weight, and greys before hue; hue last and never sole carrier
 - Layout follows content shape
 - Full states: hover, focus-visible, disabled, loading, empty, error
 - Companion brands: point at project DESIGN.md or [getdesign.md](https://getdesign.md) collections — do not fork brand packs into this skill

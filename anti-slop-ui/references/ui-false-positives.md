@@ -11,6 +11,7 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Looks like slop | Keep when |
 |-----------------|-----------|
 | Purple / indigo / violet system | Stripe-class brand purple, DESIGN.md accent, or established product color |
+| Multi-hue category or severity colors | Real legend + order/type already carry the rank; chart/heatmap where hue *is* the data; brand taxonomy with named tokens |
 | Gradient hero | Brand marketing system already ships that gradient (document the source) |
 | Glass / blur | Product *is* glass-forward (visionOS-style, intentional frosted panels) and dose is controlled |
 | Soft shadows | Elevation system from tokens; not random per-card glow |

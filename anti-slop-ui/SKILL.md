@@ -35,7 +35,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 
 ## Non-negotiables
 
-1. **Purpose-gate color** — Purple/indigo/cyan–pink gradients, mesh/orb blobs, and unearned solid Tailwind indigo/blue-500 primaries are banned as defaults. OK when brand or DESIGN.md specifies them.
+1. **Purpose-gate color** — Purple/indigo/cyan–pink gradients, mesh/orb blobs, and unearned solid Tailwind indigo/blue-500 primaries are banned as defaults. OK when brand or DESIGN.md specifies them. Do not encode category/severity/difference in hue before order, grouping, type, or greys (no rainbow chips or hash-to-hue tags).
 2. **No font monoculture** — Ban unearned Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif / unstated system-sans as identity defaults. Use DESIGN.md or project fonts. Do not crown a replacement default.
 3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No unearned bento-grid mosaic as the default section. No dual equal "Get Started" / "Learn More" hero CTAs. No stock "Most Popular" three-tier pricing or four-column template footer by reflex. No untouched shadcn/Tailwind Card + slate/zinc starter theme as the product look.
 4. **Material dose** — Glass, glow, soft multi-shadow are accents (≤1–2 surfaces), not page-wide soup. No reflexive sticky frosted starter nav.
@@ -67,6 +67,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 |-------|----------|
 | Beauty / color / craft | Encouraged when directed by brand/DESIGN.md; never “fix” by stripping to wireframes |
 | Purple / brand accent | Ban as default; allow when DESIGN.md/brand names it |
+| Hue-first meaning / rainbow chips | Ban encoding category/severity in hue before order/type/greys; no hash-to-hue chips; charts may use controlled ramps |
 | Inter / Geist / Space Grotesk / Instrument Serif | Ban unearned default; project fonts win; no new monoculture |
 | Cream + terracotta (+ cream+sage twin) | Treat as 2026 AI cluster tell unless brief asks for it |
 | Low-contrast gray body | Ban as primary text; grey only for true metadata |

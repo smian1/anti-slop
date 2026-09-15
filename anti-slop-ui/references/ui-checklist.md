@@ -6,6 +6,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 
 - [ ] Palette from DESIGN.md / tokens / named brand — not default purple–pink, unearned solid indigo/blue-500 primary, unearned cream–terracotta/sage, unearned near-black+acid-green/vermilion, unearned dark-only zinc–violet shell, or unearned broadsheet (hairlines + zero radius + dense columns)
 - [ ] Accent used at key moments only; neutrals carry area
+- [ ] Category/severity/difference encoded by order, grouping, type, or greys before hue — no rainbow chips, per-feature accent carnival, or hash-to-hue tags; charts use a controlled ramp if needed
 - [ ] Body text is near-black (or light-on-dark) — not gray-400/500 as primary copy
 - [ ] Result still looks intentional and finished—not a grayscale wireframe or drained of all accent; beauty comes from tokens/brand, not from removing craft
 - [ ] Fonts from DESIGN.md / project — not unearned Inter/Roboto/Open Sans/Space Grotesk/Geist/Instrument Serif monoculture
