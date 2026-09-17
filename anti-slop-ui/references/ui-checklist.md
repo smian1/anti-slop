@@ -35,6 +35,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 ## Honesty & states
 
 - [ ] No emoji/sparkle iconography or decorative "AI Powered" capsules; real SVG/set or none
+- [ ] No unearned hero pill chip / eyebrow badge parked above the H1 (especially when it restates the headline); real taxonomy kicker OK without costume status-dot
 - [ ] No decorative status dots (glowing/pulsing dots beside headings/labels that mark nothing live); real status only
 - [ ] No generic Undraw/blob / Corporate Memphis illustrations standing in for product proof
 - [ ] No faint dotted/line/blueprint background grid as unearned texture

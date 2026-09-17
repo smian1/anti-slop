@@ -39,7 +39,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 2. **No font monoculture** — Ban unearned Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif / unstated system-sans as identity defaults. Use DESIGN.md or project fonts. Do not crown a replacement default.
 3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No unearned bento-grid mosaic as the default section. No dual equal "Get Started" / "Learn More" hero CTAs. No stock "Most Popular" three-tier pricing or four-column template footer by reflex. No untouched shadcn/Tailwind Card + slate/zinc starter theme as the product look.
 4. **Material dose** — Glass, glow, soft multi-shadow are accents (≤1–2 surfaces), not page-wide soup. No reflexive sticky frosted starter nav.
-5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules, decorative status dots, "Scroll to explore" cues, faint background grids, Lucide/Heroicons monoline icon-card grids: keep only when semantic; otherwise cut.
+5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, hero pill chips above the H1, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules, decorative status dots, "Scroll to explore" cues, faint background grids, Lucide/Heroicons monoline icon-card grids: keep only when semantic; otherwise cut.
 6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, AI-generated people as real humans, div-built or tilted fake product screens, or "Trusted by" logo strips without real permitted logos. Real data, labelled placeholders, or honest empty states.
 7. **Cream, acid-dark, *and* broadsheet kits are tells** — Unearned cream + serif + terracotta; near-black + acid-green/vermilion; or hairline-rule broadsheet (zero radius, dense newspaper columns). Rank with purple SaaS. Brand / brief override only.
 8. **Motion restraint** — One authored moment beats bounce/elastic/infinite pulse. Honor `prefers-reduced-motion`.
@@ -79,6 +79,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | Broadsheet / newspaper kit | Treat as 2026 AI cluster tell #3 unless editorial/print brief asks for it |
 | Glass / glow / shadow | Dose-cap, not ban |
 | Eyebrows / section numbers | Purpose-gate (sequence only), not hard ban |
+| Hero pill chip above H1 | Ban unearned pill-above-headline (esp. when it restates the H1); real taxonomy kicker OK without costume dot |
 | Single-word headline accent | Ban unearned italic/color-dip on one word; whole-line emphasis OK |
 | UI landing copy | No em-dash theater in short UI strings; long marketing prose → sibling `anti-slop` |
 | Detect output | Pattern + cite + fix; Source/Render/Judgment — no authorship accusation, no numeric "AI score" |

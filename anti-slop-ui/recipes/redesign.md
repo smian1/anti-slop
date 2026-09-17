@@ -12,7 +12,7 @@ Restyle without a product rewrite. Surgical anti-slop, not a theme swap.
 ## Triage order
 
 1. Color defaults (gradient systems, unearned purple/cream kits)
-2. Type defaults (Inter monoculture, eyebrow spam)
+2. Type defaults (Inter monoculture, eyebrow spam / hero pill above H1)
 3. Material soup (glass/glow/shadow)
 4. Layout templates (equal cards, nested cards, side stripes)
 5. Honesty (fake metrics/chrome) — flag; fix only with real sources

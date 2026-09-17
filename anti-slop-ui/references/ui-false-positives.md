@@ -26,6 +26,7 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | "Trusted by" logo row | Logos are real customers with permission, full opacity, not a faded marquee costume |
 | Lucide / outline icons | Product already standardized on that set *and* icons carry specific meaning (not decorative 3-up chips) |
 | Status / live dots | Dot marks a real state (active, live, recording, warning) without glow or endless pulse costume |
+| Hero eyebrow / kicker | Real section taxonomy or breadcrumb that adds info the H1 does not restate — not a pill costume with a fake status-dot |
 
 **Rule:** If DESIGN.md, brand guidelines, or shipped production CSS already commits to the look, it is authored — not a default. Cite the source in What changed / Detect notes.
 
