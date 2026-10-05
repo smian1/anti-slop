@@ -37,6 +37,8 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] No emoji/sparkle iconography or decorative "AI Powered" capsules; real SVG/set or none
 - [ ] No unearned hero pill chip / eyebrow badge parked above the H1 (especially when it restates the headline); real taxonomy kicker OK without costume status-dot
 - [ ] No decorative status dots (glowing/pulsing dots beside headings/labels that mark nothing live); real status only
+- [ ] No always-true status badges ("Active", "Verified", "Live" that can never show another value for this viewer); every badge can flip and has a source
+- [ ] No prompt leakage in copy (stack/editor names, "built with", the brief restated as a slogan) unless that is the page's real content
 - [ ] No generic Undraw/blob / Corporate Memphis illustrations standing in for product proof
 - [ ] No faint dotted/line/blueprint background grid as unearned texture
 - [ ] No "Trusted by" grayscale logo strip or logo marquee without real, permitted logos

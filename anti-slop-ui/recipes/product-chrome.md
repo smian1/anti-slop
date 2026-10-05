@@ -11,7 +11,7 @@ Signed-in UI: shells, dashboards, settings, tables. Built around the job, not th
 
 ## Cuts that matter most here
 
-Default sidebar + 4 equal stat cards + chart + table before the job is clear; fake metrics and deltas; Jane Doe activity feeds; nested card stacks; glow on every tile; side-tab stripes without state; emoji in nav; Inter-everywhere; infinite skeleton pulse as personality.
+Default sidebar + 4 equal stat cards + chart + table before the job is clear; fake metrics and deltas; Jane Doe activity feeds; nested card stacks; glow on every tile; side-tab stripes without state; emoji in nav; always-true "Active"/"Verified" badges; build-prompt text in the UI; Inter-everywhere; infinite skeleton pulse as personality.
 
 ## Keep / prefer
 

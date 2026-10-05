@@ -39,8 +39,8 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 2. **No font monoculture** — Ban unearned Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif / unstated system-sans as identity defaults. Use DESIGN.md or project fonts. Do not crown a replacement default.
 3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No unearned bento-grid mosaic as the default section. No dual equal "Get Started" / "Learn More" hero CTAs. No stock "Most Popular" three-tier pricing or four-column template footer by reflex. No untouched shadcn/Tailwind Card + slate/zinc starter theme as the product look.
 4. **Material dose** — Glass, glow, soft multi-shadow are accents (≤1–2 surfaces), not page-wide soup. No reflexive sticky frosted starter nav.
-5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, hero pill chips above the H1, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules, decorative status dots, "Scroll to explore" cues, faint background grids, Lucide/Heroicons monoline icon-card grids: keep only when semantic; otherwise cut.
-6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, AI-generated people as real humans, div-built or tilted fake product screens, or "Trusted by" logo strips without real permitted logos. Real data, labelled placeholders, or honest empty states.
+5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, hero pill chips above the H1, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules, decorative status dots, always-true "Active"/"Verified" badges, "Scroll to explore" cues, faint background grids, Lucide/Heroicons monoline icon-card grids: keep only when semantic; otherwise cut.
+6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, copy that leaks the build prompt ("Built with X", the brief as a slogan), AI-generated people as real humans, div-built or tilted fake product screens, or "Trusted by" logo strips without real permitted logos. Real data, labelled placeholders, or honest empty states.
 7. **Cream, acid-dark, *and* broadsheet kits are tells** — Unearned cream + serif + terracotta; near-black + acid-green/vermilion; or hairline-rule broadsheet (zero radius, dense newspaper columns). Rank with purple SaaS. Brand / brief override only.
 8. **Motion restraint** — One authored moment beats bounce/elastic/infinite pulse. Honor `prefers-reduced-motion`.
 9. **Radius scale** — No oversized uniform radius on every surface (`rounded-2xl` everywhere). Parent and padded child do not share the same radius. Spacing scale is deliberate.
@@ -88,6 +88,8 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | AI-generated people as real | Never; abstract AI art OK when labelled as such |
 | Lucide / Heroicons monoline grid | Ban as unearned icon-card default; no crowned replacement set |
 | Decorative status dot | Ban when it marks nothing; real live/active/warning dots OK without glow/pulse costume |
+| Always-true status badge | Ban badges whose value cannot change for this viewer; show only the exception state |
+| Prompt leakage in copy | Cut stack/editor/brief text the visitor did not ask for; colophon/docs OK when it is the content |
 | Oversized uniform radius | Ban same large radius on cards/buttons/inputs/images; use a short scale |
 | Untouched shadcn / Tailwind Card defaults | Ban stock Card + slate/zinc base shipped as brand; theme tokens first |
 

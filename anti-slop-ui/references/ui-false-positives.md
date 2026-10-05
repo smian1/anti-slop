@@ -47,6 +47,8 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Scroll affordance | Long editorial/scrollytelling brief that *needs* an authored scroll prompt (rare) |
 | AI illustration (abstract) | Openly abstract/illustrative work, not presented as a real person or customer |
 | Real customer logos | Named, permitted, readable — proof, not grayscale wallpaper |
+| Status badge | Value genuinely varies across items or time (online/offline in a member list, sync state) and has a real source |
+| "Built with" / stack mention | Developer docs, open-source README site, or a colophon the owner asked for, where the tooling is the content |
 
 ## Marketing variance
 
