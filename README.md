@@ -7,7 +7,7 @@ Two sibling skills, one filter mindset:
 | Skill | Id | What it filters |
 |-------|----|-----------------|
 | **Anti-slop** (repo root) | `anti-slop` | AI writing tells in digests, Slack, org copy, blurbs, social |
-| **Anti-slop UI** (`anti-slop-ui/`) | `anti-slop-ui` | Generic AI interface tells on landings, product chrome, redesigns |
+| **Anti-slop UI** (`anti-slop-ui/`) | `anti-slop-ui` | Generic AI interface tells on landings, product chrome, redesigns, native mobile |
 
 Thin routers + deep references + venue recipes. Not a detector-evasion kit. Not a theme engine. Your voice and your DESIGN.md stay the source of beauty. Anti-slop UI is not anti-beauty: directed color, type, photography, motion, and material are welcome; the filter removes defaults, not delight.
 
@@ -58,18 +58,18 @@ anti-slop/
 ├── LICENSE
 ├── README.md
 ├── references/              # prose — load on demand
-├── recipes/                 # digests, slack, org-copy, …
+├── recipes/                 # digests, slack, org-copy, commits, changelog, …
 └── anti-slop-ui/
     ├── SKILL.md             # UI router
     ├── references/          # ui-tells, false-positives, checklist, design-md-contract
-    └── recipes/             # marketing-landing, product-chrome, redesign
+    └── recipes/             # marketing-landing, product-chrome, redesign, native-mobile
 ```
 
 ## Acknowledgements
 
-**Prose** ideas drawn from open anti-slop writing skills, including stop-slop (Hardik Pandya), no-ai-slop (Peter Yang), humanizer (Siqi Chen / @blader), unslop (Lauren Tan / cursor·pstack), slopbeth (ehmo / @synopsi), humanizer (Aboudjem / @AdamBoudj), deslop (Stephen Turner / @strnr), anti-slop (elithrar), humanize / soundshuman (aashaexo / @aashatwt), anti-ai-slop-writing (jalaalrd / @jalaal_tweets). Also Wikipedia WikiProject AI Cleanup (Signs of AI writing).
+**Prose** ideas drawn from open anti-slop writing skills, including stop-slop (Hardik Pandya), no-ai-slop (Peter Yang), humanizer (Siqi Chen / @blader), unslop (Lauren Tan / cursor·pstack), slopbeth (ehmo / @synopsi), humanizer (Aboudjem / @AdamBoudj), deslop (Stephen Turner / @strnr), anti-slop (elithrar), humanize / soundshuman (aashaexo / @aashatwt), anti-ai-slop-writing (jalaalrd / @jalaal_tweets). Also Wikipedia WikiProject AI Cleanup (Signs of AI writing). Commit and changelog recipes draw on gabelul/slopbuster, forjd/better-writing, and tldraw's write-pr skill.
 
-**UI** ideas informed by public design anti-slop and craft skills (filter patterns, tell catalogs, DESIGN.md practice), including work associated with miqdadbadjuber/anti-slop (antislop-ui), discountry/ritmex-skills (anti-ui-slop), Leonxlnx/taste-skill, Nutlope/hallmark, pbakaus/impeccable, anthropics/skills (frontend-design), Gesso-Build anti-slop guards, and DESIGN.md collections such as VoltAgent/awesome-design-md / getdesign.md. This repo is a thin filter sibling — not a merge of those projects.
+**UI** ideas informed by public design anti-slop and craft skills (filter patterns, tell catalogs, DESIGN.md practice), including work associated with miqdadbadjuber/anti-slop (antislop-ui), discountry/ritmex-skills (anti-ui-slop), Leonxlnx/taste-skill, Nutlope/hallmark, pbakaus/impeccable, anthropics/skills (frontend-design), Gesso-Build anti-slop guards, and DESIGN.md collections such as VoltAgent/awesome-design-md / getdesign.md. Native mobile notes draw on draftbit/mobile-taste-skill, Wholiver/swiftui-design-skill, and kalub92/eminence. This repo is a thin filter sibling — not a merge of those projects.
 
 See [`LICENSE`](LICENSE) for MIT terms and upstream attribution.
 

@@ -55,6 +55,8 @@ Always-on only for dedicated writing agents. Coding agents: on-demand Edit/Detec
 - Agent/eng blurbs → `recipes/agent-blurbs.md` (metaphor-jargon + false agency).
 - Tweets/LinkedIn → `recipes/social.md` (anti-parataxis for long prose; fragments OK in short Slack).
 - Manuscripts/grants → `recipes/scientific.md`.
+- Commit messages / PR descriptions → `recipes/commits.md` (why over what; no diff restatement).
+- Changelogs / release notes → `recipes/changelog.md` (user-visible effect; no launch hype).
 
 ## Style decisions
 

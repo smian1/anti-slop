@@ -59,6 +59,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 - Marketing landing → `recipes/marketing-landing.md`
 - App shell / dashboard / settings → `recipes/product-chrome.md`
 - Restyle in place → `recipes/redesign.md`
+- Native mobile (iOS / Android / React Native / Expo / SwiftUI) → `recipes/native-mobile.md`
 - No DESIGN.md → label draft-without-direction; propose a short token stub via `references/design-md-contract.md`, do not invent a full brand.
 
 ## Style decisions
