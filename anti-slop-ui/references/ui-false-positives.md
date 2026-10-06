@@ -26,6 +26,8 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | "Trusted by" logo row | Logos are real customers with permission, full opacity, not a faded marquee costume |
 | Lucide / outline icons | Product already standardized on that set *and* icons carry specific meaning (not decorative 3-up chips) |
 | Status / live dots | Dot marks a real state (active, live, recording, warning) without glow or endless pulse costume |
+| Font from the default roster | Brand already ships that face, or DESIGN.md names a reason no other face meets |
+| Hairline border + shadow together | One floating panel (popover, menu, modal) that needs both an edge and elevation, not every card in a row |
 | Hero eyebrow / kicker | Real section taxonomy or breadcrumb that adds info the H1 does not restate — not a pill costume with a fake status-dot |
 
 **Rule:** If DESIGN.md, brand guidelines, or shipped production CSS already commits to the look, it is authored — not a default. Cite the source in What changed / Detect notes.
@@ -47,6 +49,8 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Scroll affordance | Long editorial/scrollytelling brief that *needs* an authored scroll prompt (rare) |
 | AI illustration (abstract) | Openly abstract/illustrative work, not presented as a real person or customer |
 | Real customer logos | Named, permitted, readable — proof, not grayscale wallpaper |
+| Long display headline | Poster or editorial brief where the designed sentence *is* the image, not a wrapped marketing pitch |
+| Chart with tooltip or legend | The tooltip or legend sits on top of visible labels or values; a sparkline with its number printed beside it |
 | Status badge | Value genuinely varies across items or time (online/offline in a member list, sync state) and has a real source |
 | "Built with" / stack mention | Developer docs, open-source README site, or a colophon the owner asked for, where the tooling is the content |
 

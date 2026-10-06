@@ -36,14 +36,14 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 ## Non-negotiables
 
 1. **Purpose-gate color** — Purple/indigo/cyan–pink gradients, mesh/orb blobs, and unearned solid Tailwind indigo/blue-500 primaries are banned as defaults. OK when brand or DESIGN.md specifies them. Do not encode category/severity/difference in hue before order, grouping, type, or greys (no rainbow chips or hash-to-hue tags).
-2. **No font monoculture** — Ban unearned Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif / unstated system-sans as identity defaults. Use DESIGN.md or project fonts. Do not crown a replacement default.
+2. **No font monoculture** — Ban unearned Inter / Roboto / Open Sans / Space Grotesk / Geist / Instrument Serif / Plus Jakarta Sans / Manrope / unstated system-sans as identity defaults, and the reflex italic display serif hero (Fraunces / Playfair / Newsreader). Use DESIGN.md or project fonts. Do not crown a replacement default.
 3. **Layout follows content** — No forced hero → 3 features → FAQ → purple CTA. No three identical icon+title+blurb cards unless the content is truly equal. No unearned bento-grid mosaic as the default section. No dual equal "Get Started" / "Learn More" hero CTAs. No stock "Most Popular" three-tier pricing or four-column template footer by reflex. No untouched shadcn/Tailwind Card + slate/zinc starter theme as the product look.
 4. **Material dose** — Glass, glow, soft multi-shadow are accents (≤1–2 surfaces), not page-wide soup. No reflexive sticky frosted starter nav.
 5. **Decoration earns meaning** — Side-tab stripes, eyebrows/kickers, hero pill chips above the H1, 01/02/03 theater, emoji/sparkle icons, "AI Powered" capsules, decorative status dots, always-true "Active"/"Verified" badges, "Scroll to explore" cues, faint background grids, Lucide/Heroicons monoline icon-card grids: keep only when semantic; otherwise cut.
-6. **Evidence-bound chrome** — No fake metrics, Jane Doe feeds, copy that leaks the build prompt ("Built with X", the brief as a slogan), AI-generated people as real humans, div-built or tilted fake product screens, or "Trusted by" logo strips without real permitted logos. Real data, labelled placeholders, or honest empty states.
+6. **Evidence-bound chrome** — No charts whose values live only in a tooltip, metric tiles without a window and comparison, fake metrics, Jane Doe feeds, copy that leaks the build prompt ("Built with X", the brief as a slogan), AI-generated people as real humans, div-built or tilted fake product screens, or "Trusted by" logo strips without real permitted logos. Real data, labelled placeholders, or honest empty states.
 7. **Cream, acid-dark, *and* broadsheet kits are tells** — Unearned cream + serif + terracotta; near-black + acid-green/vermilion; or hairline-rule broadsheet (zero radius, dense newspaper columns). Rank with purple SaaS. Brand / brief override only.
 8. **Motion restraint** — One authored moment beats bounce/elastic/infinite pulse. Honor `prefers-reduced-motion`.
-9. **Radius scale** — No oversized uniform radius on every surface (`rounded-2xl` everywhere). Parent and padded child do not share the same radius. Spacing scale is deliberate.
+9. **Radius, type, and spacing scale** — No oversized uniform radius on every surface (`rounded-2xl` everywhere). Parent and padded child do not share the same radius. Type steps are real (no flat 14–18px page; no whole sentence at display size). Spacing is tight within groups and wider between them, not one gap everywhere.
 10. **Full interaction states** — Hover, focus, disabled, loading, empty, error. Real SVG icons or none.
 
 ## Edit triage
@@ -69,7 +69,10 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | Beauty / color / craft | Encouraged when directed by brand/DESIGN.md; never “fix” by stripping to wireframes |
 | Purple / brand accent | Ban as default; allow when DESIGN.md/brand names it |
 | Hue-first meaning / rainbow chips | Ban encoding category/severity in hue before order/type/greys; no hash-to-hue chips; charts may use controlled ramps |
-| Inter / Geist / Space Grotesk / Instrument Serif | Ban unearned default; project fonts win; no new monoculture |
+| Inter / Geist / Space Grotesk / Instrument Serif / Plus Jakarta / Manrope; italic-serif hero | Ban unearned default; project fonts win; no new monoculture |
+| Full-sentence display H1 / flat type scale | Ban; a few words at display size, real steps between roles |
+| Ghost card (hairline + wide shadow) | Ban on every card in a row; one floating panel may have both |
+| Charts and metric tiles | Numbers visible without hover; titles state the finding; tiles name window and comparison; tabular numerals |
 | Cream + terracotta (+ cream+sage twin) | Treat as 2026 AI cluster tell unless brief asks for it |
 | Low-contrast gray body | Ban as primary text; grey only for true metadata |
 | Dark-only zinc + violet shell | Treat as unearned starter unless product is night-native |

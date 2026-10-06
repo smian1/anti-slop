@@ -9,7 +9,8 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] Category/severity/difference encoded by order, grouping, type, or greys before hue — no rainbow chips, per-feature accent carnival, or hash-to-hue tags; charts use a controlled ramp if needed
 - [ ] Body text is near-black (or light-on-dark) — not gray-400/500 as primary copy
 - [ ] Result still looks intentional and finished—not a grayscale wireframe or drained of all accent; beauty comes from tokens/brand, not from removing craft
-- [ ] Fonts from DESIGN.md / project — not unearned Inter/Roboto/Open Sans/Space Grotesk/Geist/Instrument Serif monoculture
+- [ ] Fonts from DESIGN.md / project — not unearned Inter/Roboto/Open Sans/Space Grotesk/Geist/Instrument Serif/Plus Jakarta Sans/Manrope monoculture or an italic display serif hero (Fraunces/Playfair/Newsreader) by reflex
+- [ ] Type scale has real steps (≥1.25× between roles), and no whole sentence is set at display size
 - [ ] No gradient-clipped headlines; no single-word italic/color-dip costume unless brand specifies
 
 ## Layout & components
@@ -19,13 +20,18 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] Feature treatments reflect hierarchy (not three identical icon-tile cards by default)
 - [ ] No unearned bento-grid mosaic (mixed-size tiles only when size encodes real hierarchy)
 - [ ] No meaningless side-tab stripes or 01/02/03 theater on non-sequences
-- [ ] Radius + spacing scale (not one oversized radius on every surface); concentric radii respected
-- [ ] No tinted-near-black-as-default-ink; no identical-card soft-grey shadow soup; mono not used as page-wide meta costume
+- [ ] Radius + spacing scale (not one oversized radius on every surface); concentric radii respected; spacing tight within groups and wider between them (not one gap everywhere)
+- [ ] No tinted-near-black-as-default-ink; no identical-card soft-grey shadow soup or ghost cards (hairline + wide diffuse shadow on every card); mono not used as page-wide meta costume
 - [ ] No untouched shadcn/Tailwind starter theme (stock Card + slate/zinc `baseColor` + default `--primary`/`--radius` shipped as brand)
 - [ ] App screens built around the user decision, not sidebar+stats+chart+table by default
 - [ ] Pricing follows the real offer (not three tiers + "Most Popular" capsule by default)
 - [ ] Footer built from real IA (not four equal columns + newsletter + social by reflex)
 - [ ] No "Scroll to explore" / bouncing chevron / mouse-wheel scroll costume
+
+## Charts & metrics
+
+- [ ] Every chart titles its finding, labels axes with units and window, and shows its numbers somewhere besides a hover tooltip; no 3D, glow, shadow, or gradient fill on data marks
+- [ ] Every metric tile names its window and comparison; small-base percentages show the absolute; updating or columned numbers use tabular lining figures
 
 ## Material & motion
 
