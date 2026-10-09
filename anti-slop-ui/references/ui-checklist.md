@@ -56,6 +56,12 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] Hover, focus-visible, disabled, loading, empty, error exist where interaction exists
 - [ ] Empty/error copy names cause + next action
 
+## Render pass
+
+- [ ] Page rendered and screenshotted at desktop and mobile widths, then reviewed from the screenshots (not only from source)
+- [ ] Core flows clicked through end to end; no dead buttons or broken links
+- [ ] Before/after screenshots attached to What changed for Edit and Redesign
+
 ## Override log
 
 If any item fails but brand/DESIGN.md overrides, note the source here (or in What changed). Failure without override → fix before Publish.

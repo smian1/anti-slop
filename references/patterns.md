@@ -34,6 +34,10 @@ Load for Edit/Detect depth; SKILL.md already covers the non-negotiables.
 | 26 | **Say feeling not mechanism** — "SQL you can read", "close at hand" | Number, instruction, or mechanism |
 | 27 | **Invented concept labels / grandiose stakes** — the supervision paradox; will define the next decade | Plain claim + scope |
 | 28 | **Vague connection / association mush** — *associated with*, *in connection with*, *connected to*, *linked to*, *tied to* when it hides a concrete relationship | Name the relationship the source gives (CEO of, founded, calls the API). If the source is vague, keep vagueness — do not invent a role |
+| 42 | **Placeholder nouns** (provisional): a label stands where the noun should be: *The one that bites.* *The uncomfortable one first.* *That is the part that holds.* | Name the thing |
+| 43 | **Verbless status lines / noun stacks** (provisional): *Stakes named.* *Framing tension confirmed.* *permission-granting resolution mechanism* | Full sentence with an actor and verb; unstack to one noun plus a clause |
+
+Cards 42–43 are provisional (single source: a linguist's measurement of "Claudish" grammar, Sep 2026). Confirm with a second source before treating them as core.
 
 ## Style / formatting
 

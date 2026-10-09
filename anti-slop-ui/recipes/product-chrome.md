@@ -11,7 +11,7 @@ Signed-in UI: shells, dashboards, settings, tables. Built around the job, not th
 
 ## Cuts that matter most here
 
-Default sidebar + 4 equal stat cards + chart + table before the job is clear; fake metrics and deltas; tiles with no window or comparison; ghost-card hairline + wide shadow on every tile; Jane Doe activity feeds; nested card stacks; glow on every tile; side-tab stripes without state; emoji in nav; always-true "Active"/"Verified" badges; build-prompt text in the UI; Inter-everywhere; infinite skeleton pulse as personality.
+Default sidebar + 4 equal stat cards + chart + table before the job is clear; fake metrics and deltas; tiles with no window or comparison; ghost-card hairline + wide shadow on every tile; Jane Doe activity feeds; nested card stacks; glow on every tile; side-tab stripes without state; emoji in nav; always-true "Active"/"Verified" badges; build-prompt text in the UI; subtitles that restate the page title (#59, provisional); Inter-everywhere; infinite skeleton pulse as personality.
 
 ## Keep / prefer
 
@@ -28,6 +28,8 @@ Default sidebar + 4 equal stat cards + chart + table before the job is clear; fa
 - 3D, glow, or gradient fill on data marks; serif or proportional numerals in stat columns
 - Glassmorphic nav + cards + modals all at once
 - Decorative monospace labels on every meta string
+
+Note: #59 is provisional (single source, Sep 2026); confirm with a second catalog before treating it as core.
 
 ## Detect shape
 

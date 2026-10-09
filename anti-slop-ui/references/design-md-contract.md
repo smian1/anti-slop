@@ -16,6 +16,17 @@ This skill is a filter. Beauty comes from project direction — usually a `DESIG
 
 Optional: density, photography style, icon set, dark/light rules.
 
+## Sourcing it from references
+
+When the owner has taste but no file:
+
+1. Collect 3–5 screenshots of sites they like. Describe what each does well (layout, type, color, spacing). Edit nothing yet.
+2. Let the owner pick the parts they want. Wait for the answer.
+3. Write DESIGN.md with real values (sizes, weights, hex, spacing, radius). Mark anything read off a screenshot as an estimate. One screen at most.
+4. Wire it in: import or reference it from `AGENTS.md` / `CLAUDE.md` ("Read DESIGN.md before any UI work") so every session loads it. If you use Google's DESIGN.md format, check it with `npx @google/design.md lint DESIGN.md`.
+
+Borrow the references' decisions, not their brand. No clones.
+
 ## When DESIGN.md is missing
 
 1. **Edit / Detect** — work from existing CSS variables, Tailwind theme, or shipped brand. Cite what you found.

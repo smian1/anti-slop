@@ -29,7 +29,7 @@ Not a theme engine. Not a palette catalog. Your DESIGN.md (or existing tokens) s
 | **Edit** (default) | Restyle existing UI | Surgical change. Preserve brand, routes, real content. Minimum diff that removes tells. Short **What changed**. |
 | **Detect** | Audit / "is this AI UI?" | Name pattern, cite file/selector/region, short fix. Label evidence: **Source** (markup/CSS), **Render** (needs preview), **Judgment** (product fit). No rewrite unless asked. No fake scores. |
 | **Draft** | Greenfield UI | Apply bans while building. Demand DESIGN.md or label **draft-without-direction**. |
-| **Publish** (optional) | Pre-ship gate | Run `references/ui-checklist.md` pass/fail. One checklist only. |
+| **Publish** (optional) | Pre-ship gate | Render and screenshot (desktop + mobile), then run `references/ui-checklist.md` pass/fail including Render pass. One checklist only. |
 
 Always-on only for design-dedicated agents. Coding agents: on-demand for UI tasks.
 

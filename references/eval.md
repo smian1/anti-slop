@@ -28,6 +28,7 @@ Run after Edit/Draft before returning. Answer pass/fail. Fix failures. Use this 
 18. Summary-recap endings cut — ends on concrete point or next action?
 19. Formatting slop removed (emoji headings, decorative bold, title case, bullets that should be prose)?
 20. Em dashes: none in short copy; sample may allow in long essays; parentheses OK?
+20b. Detect: did a dash-free draft still get checked for 2026 phrase frames and placeholder nouns?
 
 ## Mode-specific
 

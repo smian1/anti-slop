@@ -16,6 +16,17 @@ If a writing sample is present:
 - Match fragment tolerance, formality, swearing, first-person rate.
 - Do not inject slang, jokes, typos, or confessions the sample does not support.
 
+## Voice profile (reusable)
+
+When a writer drafts with you often, build a short profile from 5–20 of their real pieces and reuse it instead of re-matching every time:
+
+- Tone, typical sentence length, fragment tolerance, em-dash rate
+- How they open and how they close
+- Phrases they actually use (keep)
+- Phrases they never use (their own never-say list, treated like banned words for this writer only)
+
+Profile comes from their text only. Do not invent quirks, and re-check it against a fresh sample when it starts to drift.
+
 ## Soul — Draft only, light
 
 Sterile, voiceless writing is also an AI tell. In **Draft** (not Edit, not org/legal evidence-bound):

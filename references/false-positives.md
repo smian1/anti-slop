@@ -12,6 +12,7 @@ A false positive that flattens a good sentence is worse than one surviving tell.
 - One *however* / *additionally* — AI-coded only when piled up.
 - Curly quotes alone — editors auto-curl; evidence only with other tells.
 - Em dashes alone — journalists use them; sample override applies in long essays.
+- **No em dashes ≠ clean.** Newer models (Opus 5.5 per Graphite, 2026) almost stopped using them. In Detect, weight phrase frames (`banned-words.md`, Model phrase frames) and grammar (patterns #42–43) over dash count. The no-dash rule for short copy still applies when writing.
 - One short sentence for emphasis — flag only stacks of dramatic fragments.
 - Deliberate repeated openings that build rhythm ("She came. She saw…") when they earn it.
 - *Honestly* / *look* mid-sentence — ordinary speech; theatrical standalone openers are the tell.
