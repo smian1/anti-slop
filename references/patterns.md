@@ -56,6 +56,7 @@ Cards 42–43 are provisional (single source: a linguist's measurement of "Claud
 | 39 | **Sycophantic tone** | Respond directly |
 | 40 | **Answering objections nobody raised / argument residue** | Cut rebuttals to ghosts |
 | 41 | **Placeholder / Mad Libs** — `[Your Name]`, `XXXX` | Fill or remove before ship |
+| 44 | **Heading restated by its first sentence** — "## Installation" then "This section covers how to install the tool." | Delete the restatement; start with the first real instruction or fact. Sibling of UI tell #59 (subtitle restates title) |
 
 ## Forensic — DETECT only (do not teach as writing tips)
 

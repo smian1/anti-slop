@@ -45,6 +45,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] No decorative status dots (glowing/pulsing dots beside headings/labels that mark nothing live); real status only
 - [ ] No always-true status badges ("Active", "Verified", "Live" that can never show another value for this viewer); every badge can flip and has a source
 - [ ] No prompt leakage in copy (stack/editor names, "built with", the brief restated as a slogan) unless that is the page's real content
+- [ ] No subtitle that only restates the page/panel title; keep a subtitle only when it adds a fact (count, date range, owner, status)
 - [ ] No generic Undraw/blob / Corporate Memphis illustrations standing in for product proof
 - [ ] No faint dotted/line/blueprint background grid as unearned texture
 - [ ] No "Trusted by" grayscale logo strip or logo marquee without real, permitted logos

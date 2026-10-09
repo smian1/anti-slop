@@ -32,6 +32,7 @@ Phrase frames a 2026 Graphite study measured far above human rates. Treat each a
 - **"rather than relying on"** (Astra): name the method used; drop the foil.
 - **"looking ahead, the…"**: cut the opener; give the plan or date.
 - **dependable, incredibly** (Opus 5.5, Gemini): cut, or replace with the measured fact.
+- **GPT-6 Astra era cluster** (mid-2026+, Wikipedia:Signs_of_AI_writing): *challenge, clearer, echoed, practical, prioritize, quietly, steady, universally* — cut when they stack as posture fillers in short uniform sentences; keep when they carry a measured fact. Siblings already covered: dependable, foster, leverage, multifaceted, "matters" frames.
 
 Tells shift with each model release. Add frames when a second source confirms them; retire none just because one model stopped using them.
 
