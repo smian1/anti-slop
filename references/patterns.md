@@ -56,7 +56,11 @@ Cards 42–43 are provisional (single source: a linguist's measurement of "Claud
 | 39 | **Sycophantic tone** | Respond directly |
 | 40 | **Answering objections nobody raised / argument residue** | Cut rebuttals to ghosts |
 | 41 | **Placeholder / Mad Libs** — `[Your Name]`, `XXXX` | Fill or remove before ship |
-| 44 | **Heading restated by its first sentence** — "## Installation" then "This section covers how to install the tool." | Delete the restatement; start with the first real instruction or fact. Sibling of UI tell #59 (subtitle restates title) |
+| 44 | **Heading / title restated as filler** — "## Installation" then "This section covers how to install…"; or a title-as-thing lead: "Q3 plan is a comprehensive document outlining…" / "List of X is a curated compilation…" | Delete the restatement or title-definition; start with the first real instruction or fact. Sibling of UI tell #59 |
+
+| 45 | **Paired-noun "X and Y" headings** — "Awards and recognition", "Challenges and opportunities", "Benefits and limitations", "Tools and technologies" | Name the section after what is actually in it (one concrete noun or verb phrase), not a symmetrical noun pair |
+| 46 | **Empty parent headings** — a heading whose only children are more headings, with no prose under it | Put a sentence under the parent, demote it, or delete it |
+| 47 | **Forced miniature tables** — a one- or two-row table, or a two-column table where the second column restates the first, when prose would do | Write the facts as prose (or a real comparison table with ≥3 rows and columns the reader actually scans) |
 
 ## Forensic — DETECT only (do not teach as writing tips)
 
