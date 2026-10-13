@@ -31,6 +31,16 @@ Short-form rules + Draft mode. Load `references/banned-words.md`.
 
 Match the person: slang, swearing, length, humor. Default if unknown: direct, slightly informal, contractions, may start with And/But, trusts the reader.
 
+## LinkedIn stock moves
+
+Cut these LinkedIn house-style openers and closers (FeedHive ai-slop-detector + Newsreel LinkedIn field guide; Hiration for announce openers):
+
+- **Thrilled / humbled / proud to announce** — "I'm thrilled to announce…", "humbled and honored to share…". Open with the fact: who, what role, what shipped.
+- **Read that again / Let that sink in** — "Read that again.", "Let that sink in.", "I'll say it louder." Delete; rewrite the line if it needs a second pass.
+- **Agree? / Thoughts?** engagement closers — "Agree? 👇", "Thoughts?", "Comment YES below", "Repost if you agree." Ask a real question about something in the post, or stop.
+
+Already covered elsewhere in this recipe: broetry / one-line stacks (Structure), thread markers, hashtag walls.
+
 ## Silent self-check
 
 Banned words? Same-length streak? Parataxis stack? Threes? Hedging? Extra em dashes? Fabricated specifics? Could any AI have written this for any person? → add something real or cut.
