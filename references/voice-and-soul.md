@@ -38,6 +38,18 @@ Sterile, voiceless writing is also an AI tell. In **Draft** (not Edit, not org/l
 - Let some mess in; perfect structure looks machine-made.
 - Be specific with scenes/times when sourced — not fabricated anecdotes.
 
+## Cutting is the floor, not the fix
+
+Stripping tells makes a draft clean, not human. In a blind test of four rewrites of one long essay, a cut-only pass scored barely above the original (5.9 vs 5.5 out of 10; one judge: "clean like it was disinfected"), while cuts plus the writer's own sourced material won with every judge (8.6).
+
+For first-person essays, posts, and social drafts:
+
+- Before rewriting, ask the writer 2 or 3 concrete questions: what happened, what they tried, one detail they remember.
+- Weave in only what they supply or what their own past writing shows. Leave a labelled slot (`[detail: what you tried first]`) for anything missing.
+- Never invent the anecdote to add texture.
+
+Not for org, legal, incident, or support copy. Evidence-bound rules win there.
+
 In **Edit**: do not inject personality the draft didn't have. Surgical phrasing only.
 
 In **Org / legal / incident / support**: no soul injection. Evidence-bound + plain speech.

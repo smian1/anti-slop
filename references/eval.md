@@ -36,6 +36,7 @@ Run after Edit/Draft before returning. Answer pass/fail. Fix failures. Use this 
 22. **Detect:** each finding = pattern name + quoted line + short fix; no rewrite/score/authorship claim?
 23. **Evidence-bound:** no invented owners/metrics/workflows/promises; brief not reprinted?
 24. **File:** code/YAML/data/links untouched?
+24b. **Draft (first-person / social):** asked for the writer's own material instead of relying on cuts alone; gaps left as labelled slots, no invented anecdotes?
 
 ## Final read
 

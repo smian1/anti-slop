@@ -60,6 +60,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 - App shell / dashboard / settings → `recipes/product-chrome.md`
 - Restyle in place → `recipes/redesign.md`
 - Native mobile (iOS / Android / React Native / Expo / SwiftUI) → `recipes/native-mobile.md`
+- Sameness test before building: write the short token and layout plan, then ask what a similar brief would get by default. Revise any part of the plan that matches, and say what changed. After render, swap in a sibling product's name and logo; if the page still fits them unchanged, the identity work is not done.
 - No DESIGN.md → label draft-without-direction; propose a short token stub via `references/design-md-contract.md`, do not invent a full brand.
 
 ## Style decisions

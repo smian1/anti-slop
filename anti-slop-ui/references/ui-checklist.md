@@ -57,6 +57,11 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] Hover, focus-visible, disabled, loading, empty, error exist where interaction exists
 - [ ] Empty/error copy names cause + next action
 
+## Distinctness
+
+- [ ] Plan was checked against what a similar brief would get by default, and matching parts were revised (noted in What changed)
+- [ ] With a sibling product's name and logo swapped in, the page no longer fits unchanged
+
 ## Render pass
 
 - [ ] Page rendered and screenshotted at desktop and mobile widths, then reviewed from the screenshots (not only from source)
