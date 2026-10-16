@@ -93,7 +93,8 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 |---|------|-----|-----|
 | 44 | **Bounce / elastic easing** as default | Toy motion on serious UI | Standard ease; spring only if brand asks |
 | 45 | **Infinite pulse / float loops** without user trigger | Perpetual noise | One authored moment; stop; honor `prefers-reduced-motion` |
-| 46 | **Fade-up on every section + hover lift on every card** (`hover:scale-105` / `-translate-y` + shadow) | Scattered motion, no focal point | Choreograph one entrance or none; hover only on genuinely clickable surfaces |
+| 46 | **Fade-up on every section + hover lift on every card** (`hover:scale-105` / `-translate-y` + shadow), often stacked so one hover grows, lifts, and recolors at once | Scattered motion, no focal point | Choreograph one entrance or none; hover only on genuinely clickable surfaces, with one change (background, border, or opacity) |
+| 60 | **`transition-all` / `transition: all`** — every property animates, including ones that should snap (focus rings, visibility) and layout (width, height, padding) | Nobody decided which change means something; layout animation janks | Name the properties that carry the state (`transition: background-color 150ms, border-color 150ms`); never animate layout for hover |
 
 ## Positive defaults (short)
 

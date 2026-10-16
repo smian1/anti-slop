@@ -16,6 +16,13 @@ This skill is a filter. Beauty comes from project direction — usually a `DESIG
 
 Optional: density, photography style, icon set, dark/light rules.
 
+## Write rules an agent can check
+
+An agent reads every line and guesses at adjectives. "Keep spacing generous", "modern", or "clean" gives it nothing; "8px inside a group, 32px between groups" does.
+
+- Each rule names a value, a token, or a do/don't the output can be checked against.
+- Each component lists its states (hover, focus, disabled, loading) and, when it helps, one short snippet. Without them the agent invents a new pattern on every generation.
+
 ## Sourcing it from references
 
 When the owner has taste but no file:

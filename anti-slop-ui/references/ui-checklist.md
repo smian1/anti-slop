@@ -37,6 +37,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 
 - [ ] Glass / glow / soft shadow within dose caps (accents, not soup); no reflexive sticky frosted starter nav
 - [ ] Motion: ≤ one authored moment or purposeful feedback; no infinite pulse; `prefers-reduced-motion` honored
+- [ ] No `transition-all` / `transition: all`; transitions list their properties, and a hover changes one thing
 
 ## Honesty & states
 
