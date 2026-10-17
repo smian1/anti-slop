@@ -38,6 +38,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] Glass / glow / soft shadow within dose caps (accents, not soup); no reflexive sticky frosted starter nav
 - [ ] Motion: ≤ one authored moment or purposeful feedback; no infinite pulse; `prefers-reduced-motion` honored
 - [ ] No `transition-all` / `transition: all`; transitions list their properties, and a hover changes one thing
+- [ ] Essential content is visible without JavaScript; nothing important starts at `opacity: 0` waiting for a scroll reveal
 
 ## Honesty & states
 
@@ -53,6 +54,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] No AI-generated people presented as real customers, teammates, or testimonials
 - [ ] No unearned Lucide/Heroicons monoline icon-card grid as the whole feature vocabulary
 - [ ] Metrics, names, logos, feeds are real or clearly labelled placeholders
+- [ ] No scaffold leftovers: no letter-on-gradient avatars, placeholder images or grey logo boxes, `href="#"`, default `<title>` / favicon / missing share image, or "Lorem ipsum", "Your Company", template name, or example.com in copy
 - [ ] No div fake product chrome or tilted fake-browser mockups standing in for screenshots
 - [ ] Short UI strings free of em-dash / middle-dot theater; long landing prose checked with sibling `anti-slop` if needed
 - [ ] Hover, focus-visible, disabled, loading, empty, error exist where interaction exists
@@ -67,6 +69,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 
 - [ ] Page rendered and screenshotted at desktop and mobile widths, then reviewed from the screenshots (not only from source)
 - [ ] Core flows clicked through end to end; no dead buttons or broken links
+- [ ] Link pasted into a chat app shows a real title and share image
 - [ ] Before/after screenshots attached to What changed for Edit and Redesign
 
 ## Override log

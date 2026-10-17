@@ -28,6 +28,7 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Status / live dots | Dot marks a real state (active, live, recording, warning) without glow or endless pulse costume |
 | Font from the default roster | Brand already ships that face, or DESIGN.md names a reason no other face meets |
 | Hairline border + shadow together | One floating panel (popover, menu, modal) that needs both an edge and elevation, not every card in a row |
+| Initials avatar | Product UI fallback for a real signed-in user or teammate who has not uploaded a photo; not a stand-in face on a marketing testimonial |
 | Hero eyebrow / kicker | Real section taxonomy or breadcrumb that adds info the H1 does not restate — not a pill costume with a fake status-dot |
 
 **Rule:** If DESIGN.md, brand guidelines, or shipped production CSS already commits to the look, it is authored — not a default. Cite the source in What changed / Detect notes.
