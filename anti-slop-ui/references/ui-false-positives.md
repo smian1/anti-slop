@@ -29,6 +29,7 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Font from the default roster | Brand already ships that face, or DESIGN.md names a reason no other face meets |
 | Hairline border + shadow together | One floating panel (popover, menu, modal) that needs both an edge and elevation, not every card in a row |
 | Initials avatar | Product UI fallback for a real signed-in user or teammate who has not uploaded a photo; not a stand-in face on a marketing testimonial |
+| One word alone on a heading's last line | The break is set on purpose for weight (poster line, pull quote) with a hard break or a wrap rule on that element |
 | Hero eyebrow / kicker | Real section taxonomy or breadcrumb that adds info the H1 does not restate — not a pill costume with a fake status-dot |
 
 **Rule:** If DESIGN.md, brand guidelines, or shipped production CSS already commits to the look, it is authored — not a default. Cite the source in What changed / Detect notes.
@@ -64,5 +65,6 @@ Identical card grids are OK for truly parallel items (e.g. three equal pricing d
 ## Detect vs Edit
 
 - **Detect:** list pattern + cite + suggested fix even for borderline cases; mark `override-likely` if brand may explain it.
+- **Cite where it is declared:** a font counts only in a `font-family` rule, a font-service link, a framework font class or `--font-*` variable, or a font file name. A substring is not evidence: in one 2,079-page landing-page run, 1,269 of 1,657 "Inter" hits were words like `pointer` and `interactive`. If a check fires on most pages, hand-check a sample before reporting it.
 - **Edit:** apply override; do not "de-purple" a brand purple product.
 - **Draft:** without DESIGN.md, avoid the whole default cluster — do not replace purple SaaS with cream terracotta, acid-dark, or broadsheet kits as the new mean.

@@ -11,12 +11,13 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] Result still looks intentional and finished—not a grayscale wireframe or drained of all accent; beauty comes from tokens/brand, not from removing craft
 - [ ] Fonts from DESIGN.md / project — not unearned Inter/Roboto/Open Sans/Space Grotesk/Geist/Instrument Serif/Plus Jakarta Sans/Manrope monoculture or an italic display serif hero (Fraunces/Playfair/Newsreader) by reflex
 - [ ] Type scale has real steps (≥1.25× between roles), and no whole sentence is set at display size
+- [ ] No heading wraps to one lone last word: `text-wrap: balance` on headings, `pretty` on body, hand breaks only between phrases
 - [ ] No gradient-clipped headlines; no single-word italic/color-dip costume unless brand specifies
 
 ## Layout & components
 
 - [ ] Section order follows content; no empty template sections; hero is not the stock metric template unless metrics are the product
-- [ ] Hero has one dominant CTA (not equal "Get Started" + "Learn More" twins)
+- [ ] Hero has one dominant CTA labelled with what the click does (not "Get started" alone, not equal "Get Started" + "Learn More" twins)
 - [ ] Feature treatments reflect hierarchy (not three identical icon-tile cards by default)
 - [ ] No unearned bento-grid mosaic (mixed-size tiles only when size encodes real hierarchy)
 - [ ] No meaningless side-tab stripes or 01/02/03 theater on non-sequences
