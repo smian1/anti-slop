@@ -48,6 +48,8 @@ For first-person essays, posts, and social drafts:
 - Weave in only what they supply or what their own past writing shows. Leave a labelled slot (`[detail: what you tried first]`) for anything missing.
 - Never invent the anecdote to add texture.
 
+Rewording does not change the shape. In a study of 61,608 stories, narrators spelled out the theme in 77% of AI stories against 52% of human ones, and a surface-editing pass barely moved structure-based detection (93.9% vs 95.5% macro-F1). In a separate run of 26 humanizer skills, the stated lesson survived 26 of 26 rewrites and the tidy ending 28 of 28. Synonym swaps and longer banned-word lists leave both in place: delete the moral sentence and the bow yourself (pattern #48).
+
 Not for org, legal, incident, or support copy. Evidence-bound rules win there.
 
 In **Edit**: do not inject personality the draft didn't have. Surgical phrasing only.

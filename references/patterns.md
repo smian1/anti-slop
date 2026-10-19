@@ -61,6 +61,7 @@ Cards 42–43 are provisional (single source: a linguist's measurement of "Claud
 | 45 | **Paired-noun "X and Y" headings** — "Awards and recognition", "Challenges and opportunities", "Benefits and limitations", "Tools and technologies" | Name the section after what is actually in it (one concrete noun or verb phrase), not a symmetrical noun pair |
 | 46 | **Empty parent headings** — a heading whose only children are more headings, with no prose under it | Put a sentence under the parent, demote it, or delete it |
 | 47 | **Forced miniature tables** — a one- or two-row table, or a two-column table where the second column restates the first, when prose would do | Write the facts as prose (or a real comparison table with ≥3 rows and columns the reader actually scans) |
+| 48 | **Stated lesson / tidy bow** (stories, personal posts, case studies) — the narrator or last line spells out what it all meant (*She finally understood that home was never a place.* / *And that's when I learned that failure is a teacher.*), and every thread resolves on one straight line | Delete the moral sentence; end on the last concrete event, image, or open question and let the reader infer. Rewording keeps the shape, so cut it outright. Sibling of #22 |
 
 ## Forensic — DETECT only (do not teach as writing tips)
 
