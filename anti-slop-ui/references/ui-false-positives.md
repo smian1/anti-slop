@@ -50,6 +50,7 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Multi-column footer | Site actually has that many top-level link groups |
 | Scroll affordance | Long editorial/scrollytelling brief that *needs* an authored scroll prompt (rare) |
 | AI illustration (abstract) | Openly abstract/illustrative work, not presented as a real person or customer |
+| SVG drawing | SVG doing geometry (icons, logos, diagrams, charts, animated linework), or illustration in a style DESIGN.md names and someone drew on purpose. #63 targets pictures assembled from primitives and labelled-shape metaphors |
 | Real customer logos | Named, permitted, readable — proof, not grayscale wallpaper |
 | Long display headline | Poster or editorial brief where the designed sentence *is* the image, not a wrapped marketing pitch |
 | Chart with tooltip or legend | The tooltip or legend sits on top of visible labels or values; a sparkline with its number printed beside it |

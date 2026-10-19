@@ -50,6 +50,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] No prompt leakage in copy (stack/editor names, "built with", the brief restated as a slogan) unless that is the page's real content
 - [ ] No subtitle that only restates the page/panel title; keep a subtitle only when it adds a fact (count, date range, owner, status)
 - [ ] No generic Undraw/blob / Corporate Memphis illustrations standing in for product proof
+- [ ] No model-drawn illustration: no SVG scene built from primitive shapes, no sketch/doodle SVG or `feTurbulence` grain, no shapes with the idea written on them; real asset, marked slot, or nothing
 - [ ] No faint dotted/line/blueprint background grid as unearned texture
 - [ ] No "Trusted by" grayscale logo strip or logo marquee without real, permitted logos
 - [ ] No AI-generated people presented as real customers, teammates, or testimonials
