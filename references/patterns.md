@@ -48,8 +48,8 @@ Cards 42–43 are provisional (single source: a linguist's measurement of "Claud
 | 31 | **Inline-header lists** — **Performance:** Performance improved… | Prose, or bold lead that adds new detail |
 | 32 | **Robotic rhythm / uniform paragraphs** | Vary length and shape |
 | 33 | **Parataxis stacks** (long prose) — Short. Short. Short. | Connect with clauses/semicolons |
-| 34 | **Correlative bloat** — not only… but also | Split or simplify |
-| 35 | **Hedged confidence / qualifier stacks** | Take the position or cut |
+| 34 | **Correlative bloat** — not only… but also, when it pads or repeats | Split or simplify; one plain correlative is fine (`false-positives.md`) |
+| 35 | **Hedged confidence / qualifier stacks** — *could potentially*, *may eventually* | Take the position or cut; modal + negation is not a stack |
 | 36 | **Filler phrases** — in order to, due to the fact that | To / because / delete |
 | 37 | **Chatbot residue** | Delete; answer directly |
 | 38 | **Cutoff disclaimers** — While specific details are limited… | Find sources or remove |

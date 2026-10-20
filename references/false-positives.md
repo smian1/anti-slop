@@ -1,6 +1,6 @@
 # False positives and keep-list
 
-A false positive that flattens a good sentence is worse than one surviving tell. Flag **clusters**, not isolated tells.
+A false positive that flattens a good sentence is worse than one surviving tell. Flag **clusters**, not isolated tells. One measured run of a deterministic detector over 376 human documents found 27% tripped at least one finding and 1.3% tripped more than six (avoid-ai-writing gate calibration, 2026-10-15).
 
 ## What not to flag alone
 
@@ -14,6 +14,8 @@ A false positive that flattens a good sentence is worse than one surviving tell.
 - Em dashes alone — journalists use them; sample override applies in long essays.
 - **No em dashes ≠ clean.** Newer models (Opus 5.5 per Graphite, 2026) almost stopped using them. In Detect, weight phrase frames (`banned-words.md`, Model phrase frames) and grammar (patterns #42–43) over dash count. The no-dash rule for short copy still applies when writing.
 - One short sentence for emphasis — flag only stacks of dramatic fragments.
+- *Not only… but also* / *not X but Y* alone — ordinary correlatives. In one human-vs-machine corpus count, "not only… but" showed up 16 times in 143k human words and 5 times in 115k machine words. The binary-contrast tell (#7) is the minimizer-then-upgrade reveal (*isn't just X, it's Y*) or plain corrections stacked a few sentences apart.
+- Modal plus negation (*could not possibly*, *might never*) — plain emphasis, not a qualifier stack (#35). In one human-corpus check, 3 of 4 hedge-stack flags were this over-match. The stack is *could potentially*, *may eventually*.
 - Deliberate repeated openings that build rhythm ("She came. She saw…") when they earn it.
 - *Honestly* / *look* mid-sentence — ordinary speech; theatrical standalone openers are the tell.
 - Useful limits, legal/safety notices, real corrections, named FAQ answers.
