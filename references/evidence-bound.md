@@ -19,6 +19,10 @@ Label before adding:
 
 Instructions about the piece ("keep that texture", "don't promise it can't recur", "the note should stay short") address the agent, not the reader. Do what they ask. Do not reprint them into the output. Reprinting the brief is the same class of error as inventing content.
 
+## A style pass is not a fact check
+
+Edit removes tells; it does not remove claims a model already invented. In one 24-draft test, 85% of the unsupported claims in chatbot drafts survived a humanizer skill, and 88% survived a plain "make it not sound AI" prompt. When the draft came from a model, check its claims against the source separately and label them before polishing.
+
 ## Allowed moves
 
 - Narrow inflated claims to what the source actually says.

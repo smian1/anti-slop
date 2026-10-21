@@ -5,6 +5,7 @@ Run after Edit/Draft before returning. Answer pass/fail. Fix failures. Use this 
 ## Core
 
 1. Preserves point — no added claims, examples, stats, quotes, opinions?
+1b. Edit kept every condition, qualifier, tense, and optional/required status? *Will fix today* stays future, *may improve* does not become *improves*, *can, after approval* does not become a commitment, and an unsourced figure is flagged rather than promoted to a guarantee. Changing or dropping a condition is a hard fail, not a style choice.
 2. Preserves distinctive voice (vocab, cadence, bluntness, humor, uncertainty, digressions, polish)?
 3. Leaves strong human sentences alone — no rewrite-for-consistency?
 4. Cutting proportional to actual slop — no aggressive character strip?
