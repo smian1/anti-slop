@@ -52,7 +52,7 @@ Cards 42–43 are provisional (single source: a linguist's measurement of "Claud
 | 35 | **Hedged confidence / qualifier stacks** — *could potentially*, *may eventually* | Take the position or cut; modal + negation is not a stack |
 | 36 | **Filler phrases** — in order to, due to the fact that | To / because / delete |
 | 37 | **Chatbot residue** | Delete; answer directly |
-| 38 | **Cutoff disclaimers** — While specific details are limited… | Find sources or remove |
+| 38 | **Cutoff disclaimers** — While specific details are limited…; mid-2026+ source-use framings: *should be read as illustrative rather than definitive*, *the available information does not establish…*, *not to be confused with…* (weakest of the three) | Find sources or remove; say what the source shows and stop. Rare before mid-2026, so weigh it less on older text |
 | 39 | **Sycophantic tone** | Respond directly |
 | 40 | **Answering objections nobody raised / argument residue** | Cut rebuttals to ghosts |
 | 41 | **Placeholder / Mad Libs** — `[Your Name]`, `XXXX` | Fill or remove before ship |
