@@ -22,6 +22,7 @@ An agent reads every line and guesses at adjectives. "Keep spacing generous", "m
 
 - Each rule names a value, a token, or a do/don't the output can be checked against.
 - Each component lists its states (hover, focus, disabled, loading) and, when it helps, one short snippet. Without them the agent invents a new pattern on every generation.
+- Move the mechanical rules into a linter and have the agent run it after every edit (one line in `AGENTS.md`, or a post-edit hook): raw colors and arbitrary values off the token scale (`bg-pink-500`, `p-[13px]`), color or font literals outside the token block, restyling a component that owns its own spacing. Write each error so it names the allowed move ("Button owns its padding: use size sm or lg, or gap on the parent"), not only the ban. Keep judgment rules (hierarchy, what the user scans first) in prose.
 
 ## Sourcing it from references
 

@@ -97,6 +97,7 @@ Always-on only for design-dedicated agents. Coding agents: on-demand for UI task
 | Prompt leakage in copy | Cut stack/editor/brief text the visitor did not ask for; colophon/docs OK when it is the content |
 | Oversized uniform radius | Ban same large radius on cards/buttons/inputs/images; use a short scale |
 | Untouched shadcn / Tailwind Card defaults | Ban stock Card + slate/zinc base shipped as brand; theme tokens first |
+| Fake success | Ban "Thanks" / "Sent" / toasts with no request behind them and controls that do nothing; wire it, disable with a reason, or remove |
 
 ## Reference map
 
