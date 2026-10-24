@@ -49,6 +49,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] No always-true status badges ("Active", "Verified", "Live" that can never show another value for this viewer); every badge can flip and has a source
 - [ ] No prompt leakage in copy (stack/editor names, "built with", the brief restated as a slogan) unless that is the page's real content
 - [ ] No subtitle that only restates the page/panel title; keep a subtitle only when it adds a fact (count, date range, owner, status)
+- [ ] Each fact is said once: no helper line under a card or field that restates its label, no status phrase beside a badge that says the same, no button that repeats the card's subject ("Reserve", not "Reserve this equipment")
 - [ ] No generic Undraw/blob / Corporate Memphis illustrations standing in for product proof
 - [ ] No model-drawn illustration: no SVG scene built from primitive shapes, no sketch/doodle SVG or `feTurbulence` grain, no shapes with the idea written on them; real asset, marked slot, or nothing
 - [ ] No faint dotted/line/blueprint background grid as unearned texture
