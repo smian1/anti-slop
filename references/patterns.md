@@ -67,7 +67,7 @@ Cards 42–43 are provisional (single source: a linguist's measurement of "Claud
 
 | # | Pattern | Action |
 |---|---------|--------|
-| F1 | **Citation markup leaks** — `citeturn0search0`, `contentReference[oaicite:…]`, `oai_citation`, Grok cards | Flag + strip |
+| F1 | **Citation markup leaks** — `citeturn0search0`, `contentReference[oaicite:…]`, `oai_citation`, Grok cards; Gemini paste residue that wraps a claim in `<mark>…</mark>` (left over from its Double-check highlighting) | Flag + strip |
 | F2 | **UTM-from-AI** — `utm_source=chatgpt.com` etc. | Flag + strip |
 | F3 | **Unicode obfuscation** — homoglyphs, zero-width, fancy dashes as evasion | Flag + strip; never recommend |
 | F4 | **Reasoning-chain / draft residue** — visible chain-of-thought crumbs, leftover hedges | Flag; clean in Edit |
