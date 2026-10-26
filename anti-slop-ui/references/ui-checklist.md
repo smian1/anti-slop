@@ -56,7 +56,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] No "Trusted by" grayscale logo strip or logo marquee without real, permitted logos
 - [ ] No AI-generated people presented as real customers, teammates, or testimonials
 - [ ] No unearned Lucide/Heroicons monoline icon-card grid as the whole feature vocabulary
-- [ ] Metrics, names, logos, feeds are real or clearly labelled placeholders
+- [ ] Metrics, names, logos, feeds are real or clearly labelled placeholders; every price, hour, address, policy, and guarantee traces to the brief or is a marked slot
 - [ ] No scaffold leftovers: no letter-on-gradient avatars, placeholder images or grey logo boxes, `href="#"`, default `<title>` / favicon / missing share image, or "Lorem ipsum", "Your Company", template name, or example.com in copy
 - [ ] No div fake product chrome or tilted fake-browser mockups standing in for screenshots
 - [ ] Short UI strings free of em-dash / middle-dot theater; long landing prose checked with sibling `anti-slop` if needed
