@@ -18,6 +18,7 @@ iOS, Android, React Native / Expo, SwiftUI screens. Web tells still apply (purpl
 | **Card-stack screen**: grey background, every row or setting its own white rounded shadowed card; shadows on several cards per screen | Grouped lists with hairline separators; elevation only for the one element that actually floats |
 | **Decorative blur in the content layer**: frosted cards and list rows "for premium feel" | Material only on chrome over moving content (nav, tab bar, sheets), and only where the OS target supports it; never faked on older targets |
 | **Fixed-pixel layout and safe-area hacks**: `width: 350`, `paddingTop: 50`, an implicit 375pt design, content under the home indicator or nav bar | Flex / size classes and safe-area insets; check the smallest phone and the largest text size |
+| **Web icon set on a phone**: Lucide / Heroicons / Feather SVGs as the app's icon vocabulary, or mixed in beside SF Symbols / Material so fills and stroke weights disagree | One family per app: SF Symbols / Material by default, or the one set DESIGN.md names, weight-matched to the text next to it; do not crown a replacement |
 | **Web-default font bundled on native**: Inter / Poppins / Space Grotesk shipped with no design decision behind it | System font with text styles, or the brand font DESIGN.md names; do not crown a replacement |
 
 ## Don't

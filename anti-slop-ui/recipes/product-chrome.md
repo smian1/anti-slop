@@ -23,7 +23,7 @@ Default sidebar + 4 equal stat cards + chart + table before the job is clear; fa
 
 ## Don't
 
-- Fabricate activity, avatars, or "+12% WoW" without a series
+- Fabricate activity, avatars, or "+12% WoW" without a series, or ship the starter's fixed card captions ("Trending up this month", "Strong user retention", "Acquisition needs attention") that no data computes; compute them from the series or delete them
 - Chart without a question in the title, or with values only in a hover tooltip
 - 3D, glow, or gradient fill on data marks; serif or proportional numerals in stat columns
 - Glassmorphic nav + cards + modals all at once
