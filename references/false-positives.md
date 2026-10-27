@@ -16,6 +16,7 @@ A false positive that flattens a good sentence is worse than one surviving tell.
 - One short sentence for emphasis — flag only stacks of dramatic fragments.
 - A list of three alone — keep three items when the meaning has three. A reference set of about a million words of human prose (Project Gutenberg) runs about 5 lists of three per 1,000 words. Rule-of-three padding (#16) is the third item that adds nothing, or triads stacked paragraph after paragraph.
 - *Not only… but also* / *not X but Y* alone — ordinary correlatives. In one human-vs-machine corpus count, "not only… but" showed up 16 times in 143k human words and 5 times in 115k machine words. The binary-contrast tell (#7) is the minimizer-then-upgrade reveal (*isn't just X, it's Y*) or plain corrections stacked a few sentences apart.
+- Reporting verbs on documents and data (*the study found*, *the log shows*, *the report says*) and settled idioms (*the car died*) — ordinary English. #18 targets invented body or desire verbs on things (*the bug bites*, *the config wants*), and like other single features it is weak evidence per text; flag a cluster.
 - Modal plus negation (*could not possibly*, *might never*) — plain emphasis, not a qualifier stack (#35). In one human-corpus check, 3 of 4 hedge-stack flags were this over-match. The stack is *could potentially*, *may eventually*.
 - Deliberate repeated openings that build rhythm ("She came. She saw…") when they earn it.
 - *Honestly* / *look* mid-sentence — ordinary speech; theatrical standalone openers are the tell.

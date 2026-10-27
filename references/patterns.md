@@ -23,7 +23,7 @@ Load for Edit/Detect depth; SKILL.md already covers the non-negotiables.
 | 15 | **Synonym / elegant-variation cycling** | Repeat the clear word |
 | 16 | **Rule-of-three padding** | Use the true count (1, 2, 4…) |
 | 17 | **False ranges** — from X to Y with no scale | List topics directly |
-| 18 | **False agency** — the decision emerges; the data tells us; the complaint becomes a fix | Name the human actor |
+| 18 | **False agency** — the decision emerges; the data tells us; the complaint becomes a fix; things given body or desire verbs: *this edge case bites*, *the paragraph eats its reader's patience*, *the API wants a token* | Name the human actor, or use the plain verb (*causes an error*, *needs a token*). Measured: all nine frontier models in a 2026 psycholinguistics corpus used more inanimate subjects with animate verbs than human writing |
 | 19 | **Narrator-from-a-distance** — Nobody designed this. People tend to… | You / named actor in the room |
 | 20 | **Rhetorical setups** — What if I told you, Plot twist, Question? Answer. | Drop; state the point |
 | 21 | **Dramatic fragment stacks / staccato drama** — X. And Y. And Z. That's it. | Complete sentences; one earned fragment OK |
@@ -37,7 +37,7 @@ Load for Edit/Detect depth; SKILL.md already covers the non-negotiables.
 | 42 | **Placeholder nouns** (provisional): a label stands where the noun should be: *The one that bites.* *The uncomfortable one first.* *That is the part that holds.* | Name the thing |
 | 43 | **Verbless status lines / noun stacks** (provisional): *Stakes named.* *Framing tension confirmed.* *permission-granting resolution mechanism* | Full sentence with an actor and verb; unstack to one noun plus a clause |
 
-Cards 42–43 are provisional (single source: a linguist's measurement of "Claudish" grammar, Sep 2026). Confirm with a second source before treating them as core.
+Card 42 and the verbless-status half of 43 are provisional (single source: a linguist's measurement of "Claudish" grammar, Sep 2026). The noun-stack half of 43 is now core: a 2026 study (Clark, Martin, Mahowald) found most frontier models use more stacks of three or more nouns (*reader-patience budget*) than human writers in conversation, and stacks slow reading. Unstack when a reader has to work out which noun modifies which; two-noun compounds (*coffee shop*, *login page*) are ordinary.
 
 ## Style / formatting
 
