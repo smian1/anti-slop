@@ -31,7 +31,7 @@ Always-on only for dedicated writing agents. Coding agents: on-demand Edit/Detec
 
 1. Invent no facts, quotes, stats, owners, metrics, or promises.
 2. Concrete names, numbers, mechanisms. Portability test: if a sentence could move to another product unchanged, cut or specify. Mechanism test: say what it does, not how it feels.
-3. Cut binary contrasts, throat-clearing, faux-insight, puffery, weasel attribution, synonym cycling, rule-of-three padding, dramatic fragment stacks, fake-profound endings, stated lessons, summary-recap endings, decorative emoji/bold/title-case.
+3. Cut binary contrasts, throat-clearing, faux-insight, puffery, weasel attribution, synonym cycling, rule-of-three padding, dramatic fragment stacks, fake-profound endings, stated lessons, summary-recap endings, both-sides wraps, decorative emoji/bold/title-case.
 4. Active voice; kill false agency ("the decision emerges"). Passive OK when actor unknown (methods/incidents).
 5. No em dashes by default (Slack/digests/blurbs). Parentheses **allowed**. Sample may restore dashes in long essays. Semicolons fine.
 6. Preserve the writer's edge, humor, and uncertainty. Do not professionalize blunt lines.

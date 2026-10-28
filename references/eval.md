@@ -26,7 +26,7 @@ Run after Edit/Draft before returning. Answer pass/fail. Fix failures. Use this 
 15b. Vague association (*associated with* / *in connection with*) → concrete relationship, or keep when the source itself is vague?
 16. Metadiscourse / importance-flagging / demonstrative kickers removed?
 17. Fake-profound kickers deleted (not rewritten into better metaphors)?
-18. Summary-recap endings and stated lessons cut — ends on concrete point, event, or next action?
+18. Summary-recap endings, stated lessons, and both-sides wraps cut — ends on concrete point, event, recommendation, or next action?
 19. Formatting slop removed (emoji headings, decorative bold, title case, paired-noun X-and-Y headings, empty parent headings, bullets/tables that should be prose)?
 20. Em dashes: none in short copy; sample may allow in long essays; parentheses OK?
 20b. Detect: did a dash-free draft still get checked for 2026 phrase frames and placeholder nouns?

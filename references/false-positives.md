@@ -34,7 +34,7 @@ A false positive that flattens a good sentence is worse than one surviving tell.
 - Strong closing lines that are concrete, not aphorism kitsch.
 - First-person conviction: *We think…*, *I'm not comfortable saying…*
 - Bluntness, humor, profanity, self-interruptions, honest admissions that belong to the writer.
-- Mixed feelings and unresolved tension.
+- Mixed feelings and unresolved tension that names what is unresolved and why. #49 targets the reflexive *it depends* or *both have merits* wrap on a question the piece already answered.
 - Specific unusual details, dated slang, genuine parentheticals/self-corrections.
 - Non-native English choices that are clear and intentional (detectors over-flag ELL writing — do not "fix" accent or atypical grammar into generic Mid-Atlantic).
 - Neurodivergent rhythm / info-dump density when it is the author's real cadence — cut formula, not cognition.

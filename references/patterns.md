@@ -12,7 +12,7 @@ Load for Edit/Detect depth; SKILL.md already covers the non-negotiables.
 | 4 | **Promotional language** — nestled, breathtaking, renowned, must-visit, groundbreaking | Neutral concrete description |
 | 5 | **Weasel attribution** — experts agree, studies show, industry reports suggest | Name the source or cut; ask if missing |
 | 6 | **Formulaic challenges** — Despite challenges… continues to thrive | Specific friction or cut |
-| 7 | **Binary contrasts** — Not X. It's Y. / not just X but Y | State Y |
+| 7 | **Binary contrasts** — Not X. It's Y. / not just X but Y; also the reversed foil *Y rather than X* (*acts as an interface rather than a replacement*), where X is a reading nobody proposed | State Y. Keep *rather than* only when X is a real option the reader might pick |
 | 8 | **Negative listing** — Not a X. Not a Y. A Z. | State Z |
 | 9 | **Faux-insight / throat-clearing** — Here's the thing, What nobody tells you, Let me be clear | Cut setup; make the claim |
 | 10 | **Importance-flagging / metadiscourse** — This matters. The key point is. As you can see. | Show consequence or delete |
@@ -62,6 +62,7 @@ Card 42 and the verbless-status half of 43 are provisional (single source: a lin
 | 46 | **Empty parent headings** — a heading whose only children are more headings, with no prose under it | Put a sentence under the parent, demote it, or delete it |
 | 47 | **Forced miniature tables** — a one- or two-row table, or a two-column table where the second column restates the first, when prose would do | Write the facts as prose (or a real comparison table with ≥3 rows and columns the reader actually scans) |
 | 48 | **Stated lesson / tidy bow** (stories, personal posts, case studies) — the narrator or last line spells out what it all meant (*She finally understood that home was never a place.* / *And that's when I learned that failure is a teacher.*), and every thread resolves on one straight line | Delete the moral sentence; end on the last concrete event, image, or open question and let the reader infer. Rewording keeps the shape, so cut it outright. Sibling of #22 |
+| 49 | **Both-sides wrap / false balance** — two positions set up, then politely reconciled or left at *it depends*: *While X has benefits, it also has drawbacks.* / *Ultimately, the best choice depends on your needs.* / *On one hand…, on the other… it's complex.* | Say which way the evidence leans, or give the choice by case (*Pick Pro if you have more than three editors*). If the source truly takes no side, say what is unresolved and what would settle it. Keep real hedges in academic, legal, and medical prose. Sibling of #22 and #35 |
 
 ## Forensic — DETECT only (do not teach as writing tips)
 
