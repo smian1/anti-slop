@@ -6,7 +6,7 @@ Short-form rules + Draft mode. Load `references/banned-words.md`.
 
 - No markdown headers in casual posts.
 - No bold random phrases for emphasis.
-- No emoji-as-bullet stacks (✅🔥 every line). One or two emoji per post max if they'd actually use them.
+- No emoji-as-bullet or arrow-bullet stacks (✅🔥 or → ↳ starting every line); the arrow and emoji waterfall rose from 0.6% to 12.3% of founder LinkedIn posts between Jan 2023 and Sep 2026. One or two emoji per post max if they'd actually use them.
 - No "🧵" / "Thread:" openers — earn the read.
 - Hashtags: 0–2, natural — no stacks.
 - No markdown in plain-text DMs/SMS (raw asterisks = tell).

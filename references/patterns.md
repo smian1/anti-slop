@@ -14,7 +14,7 @@ Load for Edit/Detect depth; SKILL.md already covers the non-negotiables.
 | 6 | **Formulaic challenges** — Despite challenges… continues to thrive | Specific friction or cut |
 | 7 | **Binary contrasts** — Not X. It's Y. / not just X but Y; also the reversed foil *Y rather than X* (*acts as an interface rather than a replacement*), where X is a reading nobody proposed | State Y. Keep *rather than* only when X is a real option the reader might pick |
 | 8 | **Negative listing** — Not a X. Not a Y. A Z. | State Z |
-| 9 | **Faux-insight / throat-clearing** — Here's the thing, What nobody tells you, Let me be clear | Cut setup; make the claim |
+| 9 | **Faux-insight / throat-clearing** — Here's the thing, What nobody tells you, Let me be clear; the reveal opener *Here's why*, *The harsh truth is*, *Let that sink in* (in founder LinkedIn posts, *here's why* onsets went from 1.3% to 9.6% between Jan 2023 and Sep 2026 while mocked AI verbs fell from 4.2% to 0.5%) | Cut setup; make the claim. Keep *here's why* only as a plain lead-in in how-to steps where the reason follows at once |
 | 10 | **Importance-flagging / metadiscourse** — This matters. The key point is. As you can see. | Show consequence or delete |
 | 11 | **Demonstrative kickers** — That instinct backfires. That is the whole point. | Cut or fold into prior sentence |
 | 12 | **Clever metaphor flourishes** — "bug wearing the costume of…" | Plain statement |
