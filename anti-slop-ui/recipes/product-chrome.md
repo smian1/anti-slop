@@ -16,7 +16,7 @@ Default sidebar + 4 equal stat cards + chart + table before the job is clear; fa
 ## Keep / prefer
 
 - Real numbers or labelled placeholders (`—`, `No data yet`, field hints)
-- Empty/loading/error that name cause + next action
+- Empty/loading/error that name cause + next action; open the slow load too, and a permission-denied state that says whether the person can't view or can't edit, and why
 - Focus-visible and keyboard paths
 - Tables with deciding columns first; menus only for real actions
 - Flat surfaces; elevation when stacking matters

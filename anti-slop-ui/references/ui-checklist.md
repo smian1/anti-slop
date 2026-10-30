@@ -62,6 +62,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] Short UI strings free of em-dash / middle-dot theater; long landing prose checked with sibling `anti-slop` if needed
 - [ ] Hover, focus-visible, disabled, loading, empty, error exist where interaction exists
 - [ ] Empty/error copy names cause + next action
+- [ ] Product screens: the slow load and the permission-denied state (can't view vs can't edit, with the reason) were opened, not only the demo path
 
 ## Distinctness
 
