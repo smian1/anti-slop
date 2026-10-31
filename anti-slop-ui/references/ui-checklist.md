@@ -24,6 +24,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] Radius + spacing scale (not one oversized radius on every surface); concentric radii respected; spacing tight within groups and wider between them (not one gap everywhere)
 - [ ] No tinted-near-black-as-default-ink; no identical-card soft-grey shadow soup or ghost cards (hairline + wide diffuse shadow on every card); mono not used as page-wide meta costume
 - [ ] No untouched shadcn/Tailwind starter theme (stock Card + slate/zinc `baseColor` + default `--primary`/`--radius` shipped as brand)
+- [ ] Controls use the project's existing components and variants; anything the system lacks was added to the system first, not built inline on the page
 - [ ] App screens built around the user decision, not sidebar+stats+chart+table by default
 - [ ] Pricing follows the real offer (not three tiers + "Most Popular" capsule by default)
 - [ ] Footer built from real IA (not four equal columns + newsletter + social by reflex)
