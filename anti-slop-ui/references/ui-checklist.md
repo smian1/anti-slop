@@ -45,6 +45,8 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 ## Honesty & states
 
 - [ ] No emoji/sparkle iconography or decorative "AI Powered" capsules; real SVG/set or none
+- [ ] Icons from one family at one size and stroke per context; no hand-drawn glyph beside set icons
+- [ ] No invented logo mark (letter in a colored tile, glossy orb); real mark or plain text wordmark
 - [ ] No unearned hero pill chip / eyebrow badge parked above the H1 (especially when it restates the headline); real taxonomy kicker OK without costume status-dot
 - [ ] No decorative status dots (glowing/pulsing dots beside headings/labels that mark nothing live); real status only
 - [ ] No always-true status badges ("Active", "Verified", "Live" that can never show another value for this viewer); every badge can flip and has a source

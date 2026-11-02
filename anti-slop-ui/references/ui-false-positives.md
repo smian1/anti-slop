@@ -53,6 +53,8 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | AI illustration (abstract) | Openly abstract/illustrative work, not presented as a real person or customer |
 | SVG drawing | SVG doing geometry (icons, logos, diagrams, charts, animated linework), or illustration in a style DESIGN.md names and someone drew on purpose. #63 targets pictures assembled from primitives and labelled-shape metaphors |
 | Real customer logos | Named, permitted, readable — proof, not grayscale wallpaper |
+| Letter-in-a-tile mark | The product's real, shipped mark is a monogram (a brand asset from the project, not one drawn for this page) |
+| Two icon styles | A filled variant marks the selected or active item against outlines, or the product's own icon (even a sparkle) sits beside a set chosen to match it |
 | Long display headline | Poster or editorial brief where the designed sentence *is* the image, not a wrapped marketing pitch |
 | Chart with tooltip or legend | The tooltip or legend sits on top of visible labels or values; a sparkline with its number printed beside it |
 | Status badge | Value genuinely varies across items or time (online/offline in a member list, sync state) and has a real source |
