@@ -56,7 +56,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] No generic Undraw/blob / Corporate Memphis illustrations standing in for product proof
 - [ ] No model-drawn illustration: no SVG scene built from primitive shapes, no sketch/doodle SVG or `feTurbulence` grain, no shapes with the idea written on them; real asset, marked slot, or nothing
 - [ ] No headline, offer, or steps baked into a generated image; the words are live text the visitor can select and that reflows on a phone
-- [ ] No faint dotted/line/blueprint background grid as unearned texture
+- [ ] No faint dotted/line/blueprint background grid or diagonal repeating-gradient stripes as unearned texture
 - [ ] No "Trusted by" grayscale logo strip or logo marquee without real, permitted logos
 - [ ] No AI-generated people presented as real customers, teammates, or testimonials
 - [ ] No unearned Lucide/Heroicons monoline icon-card grid as the whole feature vocabulary

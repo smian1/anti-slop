@@ -23,7 +23,7 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Grey secondary labels | Truly secondary metadata (timestamps, captions), not body copy |
 | Helper text under a field or control | It states a format, limit, or consequence the label cannot (`MM / YY`, "once a month", "deletes for everyone"). Cutting restated copy must not strip operating clues; an icon alone keeps a short label when its meaning is ambiguous. Remove the limit first where you can (a date picker, a parser that takes any common format); a limit that remains (password rules, file type and size) stays visible beside the field and is tied to it with `aria-describedby`. A sentence on how to *operate* a control is different: redesign the control instead |
 | Single-word italic or color in a headline | Editorial/fashion brief explicitly asks for that register |
-| Background grid / blueprint | Brand or product category (CAD, engineering, map) specifies technical grid texture |
+| Background grid / blueprint / stripes | Brand or product category (CAD, engineering, map) specifies technical grid texture; stripes that mark a real disabled, hazard, or in-progress state and carry a text label |
 | "Trusted by" logo row | Logos are real customers with permission, full opacity, not a faded marquee costume |
 | Lucide / outline icons | Product already standardized on that set *and* icons carry specific meaning (not decorative 3-up chips) |
 | Status / live dots | Dot marks a real state (active, live, recording, warning) without glow or endless pulse costume |
