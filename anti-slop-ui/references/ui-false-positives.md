@@ -22,6 +22,8 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Frosted sticky nav | Product is glass-forward with a controlled dose (not the starter logo/links/CTA blur bar) |
 | Grey secondary labels | Truly secondary metadata (timestamps, captions), not body copy |
 | Helper text under a field or control | It states a format, limit, or consequence the label cannot (`MM / YY`, "once a month", "deletes for everyone"). Cutting restated copy must not strip operating clues; an icon alone keeps a short label when its meaning is ambiguous. Remove the limit first where you can (a date picker, a parser that takes any common format); a limit that remains (password rules, file type and size) stays visible beside the field and is tied to it with `aria-describedby`. A sentence on how to *operate* a control is different: redesign the control instead |
+| Trailing period on a short string | Full sentences in help text, errors, empty states, or toast bodies; abbreviations that need the stop (`Inc.`, `etc.`) |
+| Long field placeholder | It is a concrete example value (`name@company.com`, `Acme Corp`), not filler that restates the label |
 | Single-word italic or color in a headline | Editorial/fashion brief explicitly asks for that register |
 | Background grid / blueprint / stripes | Brand or product category (CAD, engineering, map) specifies technical grid texture; stripes that mark a real disabled, hazard, or in-progress state and carry a text label |
 | "Trusted by" logo row | Logos are real customers with permission, full opacity, not a faded marquee costume |

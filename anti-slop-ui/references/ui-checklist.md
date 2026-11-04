@@ -64,6 +64,8 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] No scaffold leftovers: no letter-on-gradient avatars, placeholder images or grey logo boxes, `href="#"`, default `<title>` / favicon / missing share image, or "Lorem ipsum", "Your Company", template name, or example.com in copy
 - [ ] No div fake product chrome or tilted fake-browser mockups standing in for screenshots
 - [ ] Short UI strings free of em-dash / middle-dot theater; long landing prose checked with sibling `anti-slop` if needed
+- [ ] No trailing period on buttons, tabs, menu items, or short labels (keep periods in help/error sentences)
+- [ ] Placeholders are short or an example value — not "Search anything...", "Type here...", or a restatement of the label
 - [ ] Hover, focus-visible, disabled, loading, empty, error exist where interaction exists
 - [ ] Empty/error copy names cause + next action
 - [ ] Product screens: the slow load and the permission-denied state (can't view vs can't edit, with the reason) were opened, not only the demo path

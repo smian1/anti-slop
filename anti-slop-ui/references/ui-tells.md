@@ -77,6 +77,8 @@ Format: **Tell** · **Why** · **Fix**. Cite file, selector, or region when Dete
 | 36 | **Arrow on every button** (`→` / `↗`) | Direction cue becomes noise | Arrow only when navigation direction matters |
 | 37 | **Scroll cues** — "Scroll to explore", "Swipe down", bouncing chevron, animated mouse-wheel icon | Labels a behavior the user already knows; hero costume | Cut; let fold composition imply continuation |
 | 38 | **UI copy chrome** — em dashes in short UI strings; middle-dot meta (`A · B · C`); `WORD — fragment` labels | Anthropic template chrome; bleeds from prose slop | Sentence case; cut theater punctuation; for long landing prose see sibling `anti-slop` |
+| 69 | **Trailing period on a label or button** — a short control string ending in a full stop: `Save.`, `Settings.`, `Delete account.`, a tab or menu item with a period | A command becomes a sentence; a row of controls looks uneven. Generated UI often punctuates every string | Drop the period on buttons, tabs, menu items, and short labels. Keep periods in help text, errors, and other full sentences |
+| 70 | **Wordy placeholder** — `Search anything...`, `Type here...`, `Enter your email here`, or other filler that repeats the label | The placeholder disappears on focus and adds no example; it is scaffold left in the field | One or two words, or a real example value (`Search`, `name@company.com`). Do not restate the label |
 | 39 | **Tinted near-black ink** (`#0B0B0B`, `#111`) standing in for black across the page | Template chrome; reads “AI default dark” independent of subject | Token ink / true black, or brand-specified near-black with a written reason |
 
 
