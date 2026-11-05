@@ -30,7 +30,9 @@ Phrase frames a 2026 Graphite study measured far above human rates. Treat each a
 - **"X is more than a Y, it's a Z"** (Opus 5.5): say what X is (pattern #7 sibling).
 - **"The X is not simply Y" / "does not establish"** (Astra): state the claim and its limit directly.
 - **"rather than relying on"** (Astra): name the method used; drop the foil.
-- **"looking ahead, the…"**: cut the opener; give the plan or date.
+- **"looking ahead, the…"** (Opus 5.5, 40×): cut the opener; give the plan or date.
+- **"adds another layer"** (Opus 5.5, 27×): cut; state the new fact.
+- **"what comes next"** (Opus 5.5, 24×): cut the opener; give the next step or date.
 - **dependable, incredibly** (Opus 5.5, Gemini): cut, or replace with the measured fact.
 - **GPT-6 Astra era cluster** (mid-2026+, Wikipedia:Signs_of_AI_writing): *challenge, clearer, echoed, practical, prioritize, quietly, steady, universally* — cut when they stack as posture fillers in short uniform sentences; keep when they carry a measured fact. Siblings already covered: dependable, foster, leverage, multifaceted, "matters" frames.
 
