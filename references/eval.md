@@ -12,7 +12,8 @@ Run after Edit/Draft before returning. Answer pass/fail. Fix failures. Use this 
 5. Leads with what the reader needs; keeps personal setup that adds context/character?
 6. Concrete facts, protected details, direct verbs where the draft supports them?
 7. Portability test passed — generic sentences cut or made subject-specific?
-8. Active voice with human subjects where possible; false agency killed; passive OK if actor unknown?
+8. Active voice with human subjects where possible; false agency killed; actions as verbs, not buried in nouns (*gave approval* → *approved*); passive OK if actor unknown?
+8b. Odd word pairings and unintroduced names or terms replaced with ordinary words (#51)?
 9. Useful edge kept; structure preserved unless it hurt the piece?
 10. Tangled sentences fixed; clear spoken cadence/fragments kept?
 
