@@ -56,3 +56,5 @@ If it survives all five, leave it.
 ## Over-edit failure
 
 Already-strong human text often wants a light edit or **leave alone**. Changing more than ~1/5 of a control sample without clear reason is a warning. Do not replace AI slop with a new formula (clipped aphorisms, tidy triads, consultant voice).
+
+In one test of seven humanizer skills on 50 pre-LLM human passages (Weinmeister, Nov 2026), the zero-tolerance rule sets edited up to 95% of sentences in already-concise text, and the three heaviest added 2 to 3 times as many new tells as a plain cleanup prompt. The typical damage is a passive turned active with an invented subject: *these were composed in the 19th century* became *composers wrote these*, *squash and beans are grown* became *growers plant*. If the source names no actor, keep the passive.

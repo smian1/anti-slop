@@ -10,7 +10,7 @@ description: >-
 
 Filter for interfaces that look like the training-set mean. Cut convergent AI defaults. Keep brand, DESIGN.md, and content hierarchy. Skill id: `anti-slop-ui`.
 
-Sibling of prose `anti-slop` (repo root). Landing/marketing *copy* that reads as AI (em dashes, puffery, fake proof) → that prose skill; this skill owns visual/UI tells. Load `references/` only when needed. Load a `recipes/` file when the surface matches.
+Sibling of prose `anti-slop` (repo root). Landing/marketing *copy* that reads as AI (em dashes, puffery, fake proof) → that prose skill; this skill owns visual/UI tells. Before Edit or Detect, read `references/ui-tells.md` and `references/ui-false-positives.md`; before returning, run `references/ui-checklist.md`. Load other references and a `recipes/` file when the surface matches. Agents skip rules behind optional links, so these reads are required steps.
 
 Not a theme engine. Not a palette catalog. Your DESIGN.md (or existing tokens) stays the source of beauty.
 

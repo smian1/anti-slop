@@ -4,7 +4,7 @@ Cut unless quoted as examples or discussing the word itself.
 
 ## Vocabulary — cut
 
-delve, foster, leverage (verb), utilize, facilitate, empower, streamline, robust (non-engineering), cutting-edge, paradigm shift, game changer / game-changing, this is huge, this changes everything, tapestry, realm, beacon, multifaceted, meticulous, intricate / intricacies, paramount, transformative, elevate, embark, supercharge, harness, ever-evolving, landscape (figurative), testament (to), vibrant, pivotal, crucial (as filler), underscore / underscoring, interplay, bolster, garner, commence, encompass, groundbreaking, seamless, navigate (figurative), showcase / showcasing, highlighting (puffery), unprecedented, profound (filler), synergy, pain points, value add, thought leadership, spearheading, aforementioned, endeavour/endeavor.
+delve, foster, leverage (verb), utilize, facilitate, empower, streamline, robust (non-engineering), cutting-edge, paradigm shift, game changer / game-changing, this is huge, this changes everything, tapestry, realm, beacon, multifaceted, meticulous, intricate / intricacies, paramount, transformative, elevate, embark, supercharge, harness, ever-evolving, landscape (figurative), testament (to), vibrant, pivotal, crucial / essential / vital (as filler; *a vital role*), underscore / underscoring, interplay, bolster, garner, commence, encompass, groundbreaking, seamless, navigate (figurative), showcase / showcasing, highlighting (puffery), unprecedented, profound (filler), synergy, pain points, value add, thought leadership, spearheading, aforementioned, endeavour/endeavor.
 
 ## Tech metaphor jargon — prefer concrete
 
@@ -12,7 +12,7 @@ substrate → base; wedge → add / entry; vector → way / method; locus / vant
 
 ## Empty adverbs — cut when empty; KEEP when voice
 
-Often empty: just, literally, simply, truly, fundamentally, importantly, crucially, inherently, inevitably, genuinely, deeply, structurally.
+Often empty: just, literally, simply, specifically, truly, fundamentally, importantly, crucially, inherently, inevitably, genuinely, deeply, structurally.
 
 **Keep** when they mark real emphasis, contrast, or spoken rhythm: *actually*, *honestly*, *I think*, *maybe*, *to be honest*.
 
@@ -35,6 +35,8 @@ Phrase frames a 2026 Graphite study measured far above human rates. Treat each a
 - **"what comes next"** (Opus 5.5, 24×): cut the opener; give the next step or date.
 - **dependable, incredibly** (Opus 5.5, Gemini): cut, or replace with the measured fact.
 - **GPT-6 Astra era cluster** (mid-2026+, Wikipedia:Signs_of_AI_writing): *challenge, clearer, echoed, practical, prioritize, quietly, steady, universally* — cut when they stack as posture fillers in short uniform sentences; keep when they carry a measured fact. Siblings already covered: dependable, foster, leverage, multifaceted, "matters" frames.
+
+Matched-rewrite count (Weinmeister, Google Cloud, Nov 2026: 150 rewrites by three 2026 models vs the 50 human passages they came from): *essential* 8.3× and *specifically* 5.4× the human rate; *vital*, *alongside*, and *furthermore* never appeared in the human passages; *delve* and *tapestry* were near zero (0.04 and 0.02 per 1,000 words). A list of 2023 meme words misses most current text.
 
 Tells shift with each model release. Add frames when a second source confirms them; retire none just because one model stopped using them.
 

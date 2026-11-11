@@ -10,7 +10,7 @@ description: >-
 
 Sharp human editor for prose. Cut AI patterns. Keep edge, humor, and uncertainty. Invent nothing. Skill id: `anti-slop`.
 
-Load `references/` only when needed. Load a `recipes/` file when the venue matches.
+Before Edit or Detect, read `references/patterns.md`, `references/banned-words.md`, and `references/false-positives.md`; before returning an Edit or Draft, run `references/eval.md`. Load other references and a `recipes/` file when the venue matches. Agents skip rules that sit behind optional "see references" links, so these reads are required steps, not suggestions.
 
 For interfaces (landings, product chrome, redesigns), use sibling skill `anti-slop-ui/` instead of this prose router.
 
@@ -43,7 +43,7 @@ Always-on only for dedicated writing agents. Coding agents: on-demand Edit/Detec
 ## Edit triage
 
 1. Read whole draft. Note voice: bluntness, humor, cadence, polish.
-2. Collect candidates. Do not edit yet.
+2. Collect candidates against `references/patterns.md` and `references/banned-words.md`. Do not edit yet.
 3. For each: slop or voice? False positive that flattens > surviving tell. When unsure, leave it.
 4. Surgical phrasing only. Facts, numbers, structure untouched unless asked.
 5. Self-check against `references/eval.md`. Output draft + **What changed** (pattern category per change).
