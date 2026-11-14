@@ -25,6 +25,16 @@ An agent reads every line and guesses at adjectives. "Keep spacing generous", "m
 - Say what happens when a component is missing: the agent adds it to the system (or stops and names the gap), then uses it. "Never create new elements" alone fails the first time the system lacks one, and the agent builds it inline anyway.
 - Move the mechanical rules into a linter and have the agent run it after every edit (one line in `AGENTS.md`, or a post-edit hook): raw colors and arbitrary values off the token scale (`bg-pink-500`, `p-[13px]`), color or font literals outside the token block, restyling a component that owns its own spacing. Write each error so it names the allowed move ("Button owns its padding: use size sm or lg, or gap on the parent"), not only the ban. Keep judgment rules (hierarchy, what the user scans first) in prose.
 
+## Keep corrections
+
+A design correction that stays in the chat is lost; the next session repeats the mistake. When the owner corrects UI, write it into DESIGN.md before the session ends.
+
+- Count silent edits, repeated nudges ("smaller", "still too big": record where they landed), and reverts, not only explicit "no, do X".
+- Write the rule at the class level (raised surfaces, dropdowns), not the one screen, with a value or token and the owner's why in their words. If they gave no reason, mark yours *inferred* and confirm it. A wrong why gets stretched to cases it doesn't fit.
+- Skip one-off tweaks (this page's headline, this campaign's color).
+- If an existing rule already said it, the rule failed: make it stricter (a number, a token, "never") or move it into the linter. Don't add a duplicate.
+- Propose the rules and write only what the owner approves.
+
 ## Sourcing it from references
 
 When the owner has taste but no file:
