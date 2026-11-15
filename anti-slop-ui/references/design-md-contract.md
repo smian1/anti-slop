@@ -21,9 +21,10 @@ Optional: density, photography style, icon set, dark/light rules.
 An agent reads every line and guesses at adjectives. "Keep spacing generous", "modern", or "clean" gives it nothing; "8px inside a group, 32px between groups" does.
 
 - Each rule names a value, a token, or a do/don't the output can be checked against.
-- Each component lists its states (hover, focus, disabled, loading) and, when it helps, one short snippet. Without them the agent invents a new pattern on every generation.
+- Each component lists its states (hover, focus, disabled, loading), what it is not for and what to use instead (`badge`: statuses, not categories or counts), and, when it helps, one short snippet. Without them the agent invents a new pattern on every generation or picks the wrong piece.
 - Say what happens when a component is missing: the agent adds it to the system (or stops and names the gap), then uses it. "Never create new elements" alone fails the first time the system lacks one, and the agent builds it inline anyway.
-- Move the mechanical rules into a linter and have the agent run it after every edit (one line in `AGENTS.md`, or a post-edit hook): raw colors and arbitrary values off the token scale (`bg-pink-500`, `p-[13px]`), color or font literals outside the token block, restyling a component that owns its own spacing. Write each error so it names the allowed move ("Button owns its padding: use size sm or lg, or gap on the parent"), not only the ban. Keep judgment rules (hierarchy, what the user scans first) in prose.
+- Move the mechanical rules into a linter and have the agent run it after every edit (one line in `AGENTS.md`, or a post-edit hook): raw colors and arbitrary values off the token scale (`bg-pink-500`, `p-[13px]`), color or font literals outside the token block, restyling a component that owns its own spacing. Write each error so it names the allowed move ("Button owns its padding: use size sm or lg, or gap on the parent"), not only the ban. The agent reruns it until it reports zero findings; any finding left gets a written reason in the final message. Keep judgment rules (hierarchy, what the user scans first) in prose.
+- Keep DESIGN.md values identical to the token file, or generate one from the other. When the two disagree the agent copies the code: in one measured build the guide said 16px card corners, the code said 24, and the agent shipped 24.
 
 ## Keep corrections
 

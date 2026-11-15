@@ -78,6 +78,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 ## Render pass
 
 - [ ] Page rendered and screenshotted at desktop and mobile widths, then reviewed from the screenshots (not only from source)
+- [ ] With more than one screen, distinct button and field looks counted across routes from computed styles (or component data attributes), not eyeballed; more looks than the system's variants times sizes is drift, so fold the extras back into components
 - [ ] Core flows clicked through end to end; no dead buttons, broken links, or success message without a real request behind it (watch the network tab when you submit)
 - [ ] Link pasted into a chat app shows a real title and share image
 - [ ] Before/after screenshots attached to What changed for Edit and Redesign
