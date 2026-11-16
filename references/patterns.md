@@ -8,7 +8,7 @@ Load for Edit/Detect depth; SKILL.md already covers the non-negotiables.
 |---|---------|-----|
 | 1 | **Puffery / significance inflation** — pivotal moment, testament to, indelible mark, evolving landscape, solidifies its position | State the fact; let the reader judge |
 | 2 | **Name-dropping / over-attribution** — outlet lists without what was said | One source + what it reported |
-| 3 | **Superficial -ing analysis** — highlighting, underscoring, showcasing, reflecting, fostering | Delete or replace with mechanism/consequence |
+| 3 | **Superficial -ing analysis / participial tails** — highlighting, underscoring, showcasing, reflecting, fostering; any sentence that ends on *, ensuring…*, *, leaving…*, *, making it…* (instruction-tuned models write present participial clauses at 2–5× the human rate) | Delete, or turn the tail into a finite clause or its own sentence with a real subject (*so the cache stays warm*). One participle that names a real simultaneous action is fine |
 | 4 | **Promotional language** — nestled, breathtaking, renowned, must-visit, groundbreaking | Neutral concrete description |
 | 5 | **Weasel attribution** — experts agree, studies show, industry reports suggest | Name the source or cut; ask if missing |
 | 6 | **Formulaic challenges** — Despite challenges… continues to thrive | Specific friction or cut |
