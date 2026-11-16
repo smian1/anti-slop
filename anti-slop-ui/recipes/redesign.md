@@ -23,6 +23,7 @@ Restyle without a product rewrite. Surgical anti-slop, not a theme swap.
 - Existing brand tokens and intentional accents
 - Asymmetric layouts that already reflect content
 - Working interaction states
+- Anything that makes data or state faster to read (a chart's area fill, a large condition icon), even when it looks generated. Before accepting each fix, ask whether the page reads faster after it; if the AI-looking version reads faster, keep it. A page built with care may need no changes: in one blind before/after test, 3 of 3 judges preferred the untouched original of a hand-built dashboard over the de-slopped version
 
 ## Don't
 
