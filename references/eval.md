@@ -23,6 +23,7 @@ Run after Edit/Draft before returning. Answer pass/fail. Fix failures. Use this 
 12. Empty adverbs cut; voice-bearing (*actually*, *honestly*, *I think*) kept?
 13. Binary contrasts, negative listings, rhetorical setups, throat-clearing gone?
 14. Faux-insight, colon drama, -ing puffery, fake-strong verbs, synonym cycling, fragment stacks, robotic rhythm fixed?
+14b. Arrows standing in for verbs inside sentences (#52) rewritten with the verb; menu paths, tables, and code arrows left alone?
 15. Weasel attribution → named source or flagged for user?
 15b. Vague association (*associated with* / *in connection with*) → concrete relationship, or keep when the source itself is vague?
 16. Metadiscourse / importance-flagging / demonstrative kickers removed?
