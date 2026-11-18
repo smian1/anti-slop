@@ -26,6 +26,7 @@ Default sidebar + 4 equal stat cards + chart + table before the job is clear; fa
 - Fabricate activity, avatars, or "+12% WoW" without a series, or ship the starter's fixed card captions ("Trending up this month", "Strong user retention", "Acquisition needs attention") that no data computes; compute them from the series or delete them
 - Chart without a question in the title, or with values only in a hover tooltip
 - 3D, glow, or gradient fill on data marks; serif or proportional numerals in stat columns
+- Put a promo, upsell, rating prompt, or AI panel between the person and the task they opened; offer it after the task or beside it (ads and popups mid-task were 9 to 12% of low-rated app reviews in the same sample)
 - Glassmorphic nav + cards + modals all at once
 - Decorative monospace labels on every meta string
 

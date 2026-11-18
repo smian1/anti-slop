@@ -28,6 +28,7 @@ Restyle without a product rewrite. Surgical anti-slop, not a theme swap.
 ## Don't
 
 - Drive-by IA changes or copy rewrites unless asked
+- Move, rename, or remove a control people already use. A restyle keeps every existing action where it was and under the same name; if one must move, say where it went. In 1,200 hand-labelled low-rated app reviews (from 5M on the App Store and Google Play), about 5 to 7% complained that a redesign moved or removed something, while purple gradients almost never came up
 - Crown a new default font for the whole app
 - "Polish" by adding decoration
 - Merge-dump a taste-skill theme pack
