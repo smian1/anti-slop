@@ -33,7 +33,7 @@ False positives: short project abbreviations (`ce`, `fix typo`, `wip`), a single
 Comments that narrate the change or restate the next line are a recurring AI code tell (LeonardNJU/code-humanizer; scale-venture-partners/windbag). Keep thin:
 
 - **Restates the next line** — `// increment the counter` above `counter += 1`. Delete.
-- **History narration** — "was missing", "used to be", "no longer", ticket IDs embedded as changelog (`// SCA-533 fixed null`). Prefer a comment that states the *current* constraint, or put history in the commit / ticket.
+- **History narration** — "was missing", "used to be", "no longer", ticket IDs embedded as changelog (`// SCA-533 fixed null`). Prefer a comment that states the *current* constraint, or put history in the commit / ticket. Docs twin: `references/patterns.md` #53.
 - **Reviewer-facing pep** — "This change ensures correctness", "hopefully this works", "should be fine now". Delete or replace with the invariant.
 - **Same-PR TODO theater** — TODO the agent wrote and resolved in the same change. Drop both.
 
