@@ -72,5 +72,6 @@ Identical card grids are OK for truly parallel items (e.g. three equal pricing d
 
 - **Detect:** list pattern + cite + suggested fix even for borderline cases; mark `override-likely` if brand may explain it.
 - **Cite where it is declared:** a font counts only in a `font-family` rule, a font-service link, a framework font class or `--font-*` variable, or a font file name. A substring is not evidence: in one 2,079-page landing-page run, 1,269 of 1,657 "Inter" hits were words like `pointer` and `interactive`. If a check fires on most pages, hand-check a sample before reporting it.
+- **A checklist count is not the verdict.** In one blind benchmark (4,311 votes by 35 designers on 33 briefs), the human designs ranked sixth of 16 on a 34-item design rubric, losing points for a button label too dark to read and a wordmark clipped by the section above, and designers still picked them in 74% of matchups. Fix the slips the list finds; don't call a page better or finished on its count alone.
 - **Edit:** apply override; do not "de-purple" a brand purple product.
 - **Draft:** without DESIGN.md, avoid the whole default cluster — do not replace purple SaaS with cream terracotta, acid-dark, or broadsheet kits as the new mean.

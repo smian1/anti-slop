@@ -19,6 +19,7 @@ Purple/indigo/cyan–pink hero wash; mesh orbs; gradient text; Inter/Space Grote
 - Flagship feature treated differently from supporting points
 - Authored section rhythm (vary layout when content differs)
 - Honest proof (named customers, real metrics) or none
+- Copy that says how the product works (what goes in, what happens, what you get), not only the benefit. A headline that would still be true on a competitor's page says nothing; in one benchmark, the slogan-heavy model's body copy stopped at the benefit on 68% of its pages, against 11% for other labs
 - `prefers-reduced-motion`; one entrance max
 
 ## Don't
