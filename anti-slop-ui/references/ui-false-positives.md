@@ -59,6 +59,7 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Two icon styles | A filled variant marks the selected or active item against outlines, or the product's own icon (even a sparkle) sits beside a set chosen to match it |
 | Long display headline | Poster or editorial brief where the designed sentence *is* the image, not a wrapped marketing pitch |
 | Chart with tooltip or legend | The tooltip or legend sits on top of visible labels or values; a sparkline with its number printed beside it |
+| Item off the shared line (#72) | A one-column indent that shows nesting (the child's icon where the parent's label starts); section headers kept on one line across panels even when the rows below differ; an optical offset that makes a glyph look centered (play triangle, round icon in a square box) |
 | Status badge | Value genuinely varies across items or time (online/offline in a member list, sync state) and has a real source |
 | "Built with" / stack mention | Developer docs, open-source README site, or a colophon the owner asked for, where the tooling is the content |
 

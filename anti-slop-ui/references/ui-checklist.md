@@ -79,6 +79,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 
 - [ ] Page rendered and screenshotted at desktop and mobile widths, then reviewed from the screenshots (not only from source)
 - [ ] With more than one screen, distinct button and field looks counted across routes from computed styles (or component data attributes), not eyeballed; more looks than the system's variants times sizes is drift, so fold the extras back into components
+- [ ] In each sidebar, menu, toolbar, and table, leading icons share one column, labels one text line, trailing items one edge, and bar items one center line, checked on the render (guide lines or measured edges) at desktop and narrow widths with menus open; misses fixed in the container, not with one-off margins
 - [ ] Every modal, drawer, and sheet was operated by keyboard: it opens from its trigger, focus moves inside and stays there on Tab and Shift-Tab, and Escape closes it. A clean console proves nothing
 - [ ] Core flows clicked through end to end; no dead buttons, broken links, or success message without a real request behind it (watch the network tab when you submit)
 - [ ] Link pasted into a chat app shows a real title and share image
