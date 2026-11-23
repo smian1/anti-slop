@@ -13,6 +13,7 @@ Readers are users scanning for what affects them, not reviewers.
 - Launch hype: "excited to", "amazing", "elevate", "significantly enhance", "under the hood", "overall experience", "seamlessly", "powerful and flexible".
 - Celebration emoji bullets (🎉 🚀 ✨).
 - Implementation narration a user can't act on.
+- Chat residue: "as requested", "(fixed version)", or a rejected approach named as if it shipped → `recipes/commits.md`.
 
 ## Don't
 
