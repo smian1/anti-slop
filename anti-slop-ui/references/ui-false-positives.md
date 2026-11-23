@@ -21,6 +21,7 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | Dark-only UI | Product is night-native (creative tools, trading, cinema) *and* neutrals are authored, not stock zinc+violet |
 | Frosted sticky nav | Product is glass-forward with a controlled dose (not the starter logo/links/CTA blur bar) |
 | Grey secondary labels | Truly secondary metadata (timestamps, captions), not body copy |
+| More than three greys on a screen (#73) | Chart or heatmap steps where the grey is the data; a separate ramp for dark mode or a coloured surface; a tinted neutral ramp the brand names. Count text roles, not every swatch |
 | Helper text under a field or control | It states a format, limit, or consequence the label cannot (`MM / YY`, "once a month", "deletes for everyone"). Cutting restated copy must not strip operating clues; an icon alone keeps a short label when its meaning is ambiguous. Remove the limit first where you can (a date picker, a parser that takes any common format); a limit that remains (password rules, file type and size) stays visible beside the field and is tied to it with `aria-describedby`. A sentence on how to *operate* a control is different: redesign the control instead |
 | Trailing period on a short string | Full sentences in help text, errors, empty states, or toast bodies; abbreviations that need the stop (`Inc.`, `etc.`) |
 | Long field placeholder | It is a concrete example value (`name@company.com`, `Acme Corp`), not filler that restates the label |
