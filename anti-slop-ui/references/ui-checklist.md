@@ -4,7 +4,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 
 ## Color & type
 
-- [ ] Palette from DESIGN.md / tokens / named brand — not default purple–pink, unearned solid indigo/blue-500 primary, unearned cream–terracotta/sage, unearned near-black+acid-green/vermilion, unearned dark-only zinc–violet shell, or unearned broadsheet (hairlines + zero radius + dense columns)
+- [ ] Palette from DESIGN.md / tokens / named brand — not default purple–pink, unearned solid indigo/blue-500 primary, unearned cream–terracotta/sage (also on briefs that only say warm, craft, food, or a vintage decade), unearned near-black+acid-green/vermilion, unearned dark-only zinc–violet shell, or unearned broadsheet (hairlines + zero radius + dense columns)
 - [ ] Accent used at key moments only; neutrals carry area
 - [ ] Category/severity/difference encoded by order, grouping, type, or greys before hue — no rainbow chips, per-feature accent carnival, or hash-to-hue tags; charts use a controlled ramp if needed
 - [ ] Body text is near-black (or light-on-dark) — not gray-400/500 as primary copy
@@ -51,6 +51,7 @@ Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-s
 - [ ] No unearned hero pill chip / eyebrow badge parked above the H1 (especially when it restates the headline); real taxonomy kicker OK without costume status-dot
 - [ ] No decorative status dots (glowing/pulsing dots beside headings/labels that mark nothing live); real status only
 - [ ] No always-true status badges ("Active", "Verified", "Live" that can never show another value for this viewer); every badge can flip and has a source
+- [ ] Section headings say what the reader gets, not a raw spec; no `Location · Batch · Status` or `FIG. 01` meta lines, label stacks, or fake telemetry (`LIVE`, `SYS OK`) dressing a marketing section as a technical readout; real specs sit in a table or list
 - [ ] No prompt leakage in copy (stack/editor names, "built with", the brief restated as a slogan) unless that is the page's real content
 - [ ] No subtitle that only restates the page/panel title; keep a subtitle only when it adds a fact (count, date range, owner, status)
 - [ ] Each fact is said once: no helper line under a card or field that restates its label, no status phrase beside a badge that says the same, no button that repeats the card's subject ("Reserve", not "Reserve this equipment"), no caption that narrates the visible control or explains how to read a chart ("Click the button below…", "This chart shows…", "Hover for details")

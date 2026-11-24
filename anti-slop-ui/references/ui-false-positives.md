@@ -31,6 +31,7 @@ Strong color systems, illustration, photography, bold type, and rich but authore
 | "Trusted by" logo row | Logos are real customers with permission, full opacity, not a faded marquee costume |
 | Lucide / outline icons | Product already standardized on that set *and* icons carry specific meaning (not decorative 3-up chips) |
 | Status / live dots | Dot marks a real state (active, live, recording, warning) without glow or endless pulse costume |
+| Spec-led heading or technical labels (#74) | The page is a real spec sheet, datasheet, comparison, or docs, or buyers shop by the number (a camera's megapixels, a laptop's RAM); keep the numbers in a table or list they can compare, and keep status labels where the state is real |
 | Font from the default roster | Brand already ships that face, or DESIGN.md names a reason no other face meets |
 | Hairline border + shadow together | One floating panel (popover, menu, modal) that needs both an edge and elevation, not every card in a row |
 | Initials avatar | Product UI fallback for a real signed-in user or teammate who has not uploaded a photo; not a stand-in face on a marketing testimonial |
