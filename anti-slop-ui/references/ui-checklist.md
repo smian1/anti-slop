@@ -2,6 +2,8 @@
 
 Pass/fail for Publish or post-Edit self-check. One list only — no numeric AI-score.
 
+A model's own "is this slop?" verdict on its page is not a pass. In one 10-edit test every model judged its page fixed after the first edit (DesignArena), and the same pull request got 5 blocked and 10 passed verdicts across reruns, partly because a model judgement varied even at temperature 0 (Razorpay Design Quality Agent). Items code can measure (contrast, tap size, overflow, off-token values) can fail a page; judgement items (hierarchy, generic look) are findings for a person to accept or reject.
+
 ## Color & type
 
 - [ ] Palette from DESIGN.md / tokens / named brand — not default purple–pink, unearned solid indigo/blue-500 primary, unearned cream–terracotta/sage (also on briefs that only say warm, craft, food, or a vintage decade), unearned near-black+acid-green/vermilion, unearned dark-only zinc–violet shell, or unearned broadsheet (hairlines + zero radius + dense columns)
