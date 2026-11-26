@@ -38,6 +38,8 @@ Phrase frames a 2026 Graphite study measured far above human rates. Treat each a
 
 Matched-rewrite count (Weinmeister, Google Cloud, Nov 2026: 150 rewrites by three 2026 models vs the 50 human passages they came from): *essential* 8.3× and *specifically* 5.4× the human rate; *vital*, *alongside*, and *furthermore* never appeared in the human passages; *delve* and *tapestry* were near zero (0.04 and 0.02 per 1,000 words). A list of 2023 meme words misses most current text.
 
+Register-matched follow-up (Weinmeister, Nov 2026: 250 pre-2022 human passages continued by four Gemini models (2,000 calls) and an unrelated control model): Gemini 4 used *alongside* about 9× the human rate and picked it over *along with / as well as / together with / in addition to* up to about three-quarters of the time; the control model matched the human rate, and *delve* was near zero on Gemini. The habit showed in open-ended drafting, not in light copy-edits or bulleted answers. Treat a single-model word as one tell in long drafted prose. Before adding a word from a hunch, count it against a register-matched pre-2023 human baseline and a second model on the same prompts, and compare it with its synonyms, not total words.
+
 Tells shift with each model release. Add frames when a second source confirms them; retire none just because one model stopped using them.
 
 ## Chatbot / email residue — cut
